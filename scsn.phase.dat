@@ -1,0 +1,1555 @@
+2000/08/01 00:20:40.2 L 1.6 l  34.377 -117.646  11.3 A 9158959  17  98  0  0
+	 TAB  VHZ   787      P IU1   3.36    1.97
+	 EL2  VHZ   942      P ID0  16.96    3.46
+	 EL2  VHZ   942      S E 2  16.96    5.68
+	 SUN  VHZ   768      P ID1  19.04    3.76
+	 SUN  VHZ   768      S E 2  19.04    6.55
+	 HOL  VHZ  1027      P IU0  20.45    3.93
+	 HOL  VLE  1030      S E 2  20.45    6.85
+	 XTL  VHZ   931      P IU0  21.87    4.17
+	 SS2  VHZ   747      P ID1  23.15    4.37
+	 CSP  VHZ   235      S E 2  27.94    8.82
+	 CFL  VHZ   185      P IU0  35.18    6.11
+	 SBB  VHZ   669      P ID0  38.33    6.64
+	 SBB  VHZ   669      S E 2  38.33   11.31
+	 LRR  VHZ   462      P IU1  38.99    6.83
+	 HYS  VHZ   399      P ID1  54.75    9.35
+	 SME  VHZ   722      P ID1  67.16   10.99
+	 SME  VHZ   722      S E 2  67.16   18.94
+2000/08/01 01:47:24.4 L 1.5 c  34.447 -116.500  10.1 B 9158961  20  49  0  0
+	 HDB  VHZ  1032      P E 2  20.33    3.80
+	 HDB  VHZ  1032      S E 2  20.33    6.58
+	 GTM  VHZ   377      P IU1  21.53    3.89
+	 GTM  VHZ   377      S E 2  21.53    6.89
+	 RMM  VHZ   647      P E 2  24.71    4.26
+	 RMM  VHZ   647      S E 2  24.71    8.07
+	 RMR  VHZ   654      P IU1  26.97    4.89
+	 RMR  VHZ   654      S E 2  26.97    8.59
+	 SIL  VHZ   711      P E 2  32.13    5.47
+	 SIL  VHZ   711      S E 2  32.13    9.63
+	 TPM  VHZ  1033      P E 2  39.66    6.78
+	 TPM  VHZ  1033      S E 2  39.66   12.06
+	 RAG  VHZ  1034      P E 2  41.48    6.99
+	 RAG  VHZ  1034      S E 2  41.48   12.14
+	 LUC  VHZ   466      P E 2  42.85    7.27
+	 CDY  VHZ   184      P IU1  45.16    7.75
+	 CDY  VHZ   184      S E 2  45.16   13.17
+	 EW2  VHZ  1011      P E 2  56.97    9.69
+	 PSP  VHZ   620      P E 2  72.79   12.13
+	0299    C 65535      P E 2 11402.18   11.57
+2000/08/01 02:17:49.8 L 1.2 c  35.970 -117.703   2.1 B 9158962  10  69  0  0
+	 WRC  VHZ   911      P IU1   5.59    1.14
+	 WCS  VHZ   885      P IU1   8.70    1.66
+	 WRV  VHZ   912      P IU1  17.79    3.08
+	 TOW  VHZ   813      P E 2  18.81    3.65
+	 WMF  VHZ   906      P IU1  21.58    3.76
+	 WMF  VHZ   906      S E 2  21.58    6.92
+	 WNM  VHZ   908      P E 2  23.51    4.10
+	 ARG  VHZ  1020      S E 3  24.09    7.27
+	 WWP  VHZ   926      P E 2  44.04    7.45
+	 WWP  VHZ   926      S E 3  44.04   12.79
+2000/08/01 02:45:10.2 L 1.6 l  35.971 -117.695   2.6 A 9158963  14  69  0  0
+	 WRC  VHZ   911      P IU1   4.99    1.22
+	 WCS  VHZ   885      P IU1   9.14    1.76
+	 WVP  VHZ   925      P E 2  11.52    2.28
+	 WRV  VHZ   912      P IU1  18.49    3.19
+	 TOW  VHZ   813      P ID1  19.15    3.75
+	 CLC  VHZ   202      P IU1  19.46    3.32
+	 WMF  VHZ   906      P IU1  21.99    3.86
+	 WMF  VHZ   906      S E 3  21.99    7.06
+	 ARG  VHZ  1020      P E 2  23.40    4.14
+	 WNM  VHZ   908      P ID1  24.17    4.21
+	 WWP  VHZ   926      P ID1  44.70    7.47
+	 WWP  VHZ   926      S E 2  44.70   12.85
+	 WSH  VHZ   918      P E 3  45.31    7.64
+	 XMS  VHZ   930      P IU1  58.40   10.19
+2000/08/01 04:10:15.6 L 1.5 l  33.981 -116.994   8.8 B 9158964  18  76  0  0
+	 RAY  VHZ   633      P IU1  17.82    3.30
+	 PEC  VHZ   568      P ID1  18.33    3.53
+	 PEC  VHZ   568      S E 2  18.33    6.25
+	 SKY  VHZ   716      P E 2  25.09    4.46
+	 SKY  VHZ   716      S E 2  25.09    7.73
+	 POB  VHZ   605      P IU1  33.32    5.76
+	 POB  VHZ   605      S E 2  33.32   10.26
+	 WIN  VHZ   895      P E 2  34.64    5.79
+	 WIN  VHZ   895      S E 2  34.64   10.18
+	 SME  VHZ   722      P E 2  37.74    6.46
+	 SME  VHZ   722      S E 2  37.74   11.06
+	 BAC  VHZ   123      P E 2  41.23    6.90
+	 RMR  VHZ   654      P IU1  46.34    7.97
+	 EW2  VHZ  1011      P E 2  54.19    9.16
+	 ELS  VHZ   297      P E 2  54.60    9.45
+	 TPC  VHZ   814      P IU1  88.18   14.59
+	 FRG  VHZ   330      P E 2  89.42   14.99
+	 JUL  VHZ   424      S E 2 109.49   30.84
+2000/08/01 04:13:18.0 L 1.6 l  33.483 -116.494   7.4 A 9158965  33 769  0  0
+	 FRD  HHZ  9014      P ID1  10.06    2.18
+	 FRD  HHE  9012      S E 2  10.06    3.81
+	SNDA  HHZ  9032      P ID1  13.37    2.78
+	SNDA  HHN  9031      S E 3  13.37    5.09
+	 PFO  HHZ  9044      P IU1  14.66    2.80
+	LVA2  HHZ  9023      P ID0  15.88    3.00
+	LVA2  HHN  9022      S E 2  15.88    5.29
+	 BZN  HHZ  9005      P ID1  15.98    3.09
+	 BZN  HHE  9003      S E 2  15.98    5.35
+	 AGA  HHZ  7843      P IU0  19.28    3.45
+	 AGA  HHE  7845      S E 2  19.28    6.01
+	 WMC  HHZ  9041      P IU1  19.47    3.70
+	 CRY  HHZ  9008      P IU1  24.23    4.34
+	 CRY  HHN  9007      S E 2  24.23    7.52
+	 PSP  VHZ   620      P E 3  34.93    6.08
+	 PSP  VHZ   620      S E 2  34.93   10.16
+	 PLM  HHZ  7247      P IU1  36.90    6.42
+	 MIR  VHZ   474      P E 3  38.73    6.52
+	 MIR  VHZ   474      S E 3  38.73   11.29
+	 POB  VHZ   605      P IU1  45.67    7.71
+	 MEC  VHZ   472      P E 3  46.07    8.79
+	 MEC  VHZ   472      S E 3  46.07   13.45
+	 JUL  VHZ   424      P ID1  49.59    8.30
+	 JUL  VHZ   424      S E 3  49.59   14.17
+	 FRG  VHZ   330      P IU1  50.14    8.82
+	 EW2  VHZ  1011      P E 3  51.46    9.51
+	 BAC  VHZ   123      P E 2  52.40    8.68
+	 HMT  VHZ   392      P E 3  53.29    9.04
+	 OLY  VHZ   515      P E 2  57.81    9.80
+	 OLY  VHZ   515      S E 2  57.81   16.77
+	 WIN  VHZ   895      P E 2  60.44   10.02
+	 PEC  VHZ   568      P E 3  76.50   12.92
+	 TPC  VHZ   814      P E 3  80.46   13.49
+2000/08/01 04:22:31.1 L 1.3 h  33.392 -116.391   6.0 C 9158967   9  50  0  0
+	 MIR  VHZ   474      P IU1  28.64    5.08
+	 JUL  VHZ   424      P ID1  43.39    7.39
+	 JUL  VHZ   424      S E 3  43.39   12.54
+	 PSP  VHZ   620      S E 3  47.00   13.47
+	 POB  VHZ   605      P E 2  59.08   10.05
+	 BAC  VHZ   123      P E 2  64.70   10.67
+	 HMT  VHZ   392      P ID1  66.59   11.15
+	 WIN  VHZ   895      P E 2  73.23   12.09
+	 SKY  VHZ   716      P E 3  78.61   13.18
+2000/08/01 04:41:18.9 L 1.6 h  34.710 -116.222   7.3 B 9158968  10  59  0  0
+	 RAG  VHZ  1034      P IU0   7.17    1.77
+	 RAG  VHZ  1034      S E 2   7.17    3.17
+	 CDY  VHZ   184      P IU1  17.06    3.11
+	 CDY  VHZ   184      S E 2  17.06    5.69
+	 HDB  VHZ  1032      P E 3  34.88    5.98
+	 RMM  VHZ   647      S E 3  37.82   11.24
+	 TPM  VHZ  1033      P E 3  40.72    6.85
+	 GRP  VHZ   355      P E 3  57.66    9.93
+	 TPC  VHZ   814      P E 3  69.06   11.79
+	0299    C 65535      P E 2 11387.92    9.06
+2000/08/01 05:00:42.4 L 1.4 h  34.651 -116.286   7.5 C 9158969  14  53  0  0
+	 RAG  VHZ  1034      P ID0  12.91    2.54
+	 RAG  VHZ  1034      S E 2  12.91    4.55
+	 CDY  VHZ   184      P IU1  20.46    3.72
+	 CDY  VHZ   184      S E 3  20.46    6.60
+	 HDB  VHZ  1032      P E 3  27.81    4.90
+	 HDB  VHZ  1032      S E 2  27.81    8.51
+	 RMM  VHZ   647      P E 3  31.20    5.50
+	 TPM  VHZ  1033      P E 3  37.17    6.27
+	 TPM  VHZ  1033      S E 3  37.17   11.30
+	 GTM  VHZ   377      P E 3  40.15    6.53
+	 GTM  VHZ   377      S E 3  40.15   11.71
+	 RMR  VHZ   654      P E 3  55.59    9.21
+	 GRP  VHZ   355      P E 2  64.88   10.77
+	0299    C 65535      P E 3 11391.25    9.80
+2000/08/01 05:47:03.6 L 1.2 h  34.031 -116.781  19.9 B 9158970  11  51  0  0
+	 RAY  VHZ   633      P ID1   3.04    3.27
+	 RAY  VHZ   633      S E 2   3.04    5.69
+	 PSP  VHZ   620      S E 3  33.92   10.81
+	 EW2  VHZ  1011      P E 3  35.82    6.74
+	 EW2  VHZ  1011      S E 3  35.82   11.40
+	 POB  VHZ   605      P E 3  40.46    7.53
+	 POB  VHZ   605      S E 3  40.46   12.82
+	 WIN  VHZ   895      P E 2  48.81    8.49
+	 WIN  VHZ   895      S E 2  48.81   14.54
+	 BAC  VHZ   123      P E 3  52.36    9.03
+	 BAC  VHZ   123      S E 3  52.36   15.38
+2000/08/01 05:49:53.6 L 1.3 h  34.525 -116.259   9.1 C 9158971  13  53  0  0
+	 HDB  VHZ  1032      P E 3  14.03    2.84
+	 HDB  VHZ  1032      S E 3  14.03    5.24
+	 RAG  VHZ  1034      P E 3  20.17    3.54
+	 TPM  VHZ  1033      P IU1  24.33    4.32
+	 GTM  VHZ   377      P E 2  27.14    4.72
+	 GTM  VHZ   377      S E 2  27.14    8.34
+	 CDY  VHZ   184      P E 3  34.68    6.01
+	 CDY  VHZ   184      S E 3  34.68   10.59
+	 RMM  VHZ   647      P E 3  36.18    6.12
+	 RMR  VHZ   654      P E 3  45.39    7.77
+	 TPC  VHZ   814      P E 3  50.48    8.87
+	 SIL  VHZ   711      P E 3  55.98    9.48
+	 SHE  VHZ  1035      P E 3  59.52   10.66
+2000/08/01 06:47:02.3 L 1.3 c  35.797 -117.650   4.1 A 9158972  13  67  0  0
+	 CLC  VHZ   202      P IU1   5.27    1.18
+	 CLC  VLN   203      S E 2   5.27    2.17
+	 TOW  VHZ   813      P IU1  10.68    2.43
+	 SRT  VHZ   746      P ID1  14.87    3.06
+	 WRC  VHZ   911      P IU1  16.90    3.14
+	 WNM  VHZ   908      P IU1  24.14    4.31
+	 WSH  VHZ   918      P E 2  26.31    4.52
+	 WCS  VHZ   885      P E 3  27.78    4.93
+	 WBM  VHZ   878      P E 3  30.52    5.72
+	 WRV  VHZ   912      P IU1  32.27    5.49
+	 XMS  VHZ   930      P E 2  40.27    7.37
+	 WMF  VHZ   906      P IU1  40.36    6.94
+	 WWP  VHZ   926      P E 3  40.96    6.96
+2000/08/01 07:44:36.3 L 1.5 l  33.891 -116.738  17.5 A 9158973  18  77  0  0
+	 RAY  VHZ   633      P IU1  17.70    4.02
+	 RAY  VHZ   633      S E 2  17.70    7.28
+	 PSP  VHZ   620      P ID1  20.45    4.34
+	 PSP  VHZ   620      S E 2  20.45    7.48
+	 POB  VHZ   605      P ID0  28.44    5.60
+	 EW2  VHZ  1011      P IU1  30.90    5.95
+	 HMT  VHZ   392      P ID1  31.80    5.89
+	 HMT  VHZ   392      S E 2  31.80   10.32
+	 RMR  VHZ   654      P IU1  38.77    6.87
+	 WIN  VHZ   895      P ID1  40.88    7.08
+	 BAC  VHZ   123      P ID1  41.70    7.32
+	 SIL  VHZ   711      P E 3  51.48    8.89
+	 SME  VHZ   722      P E 3  57.49    9.60
+	 OLY  VHZ   515      P E 3  61.96   10.56
+	 TPC  VHZ   814      P E 3  67.82   11.47
+	 TPC  VHZ   814      S E 3  67.82   19.67
+	 ELS  VHZ   297      P E 3  69.16   11.63
+	 JUL  VHZ   424      P E 2  94.42   15.81
+2000/08/01 08:55:40.8 L 2.5 l  34.967 -119.556   6.0 C 9158975  25 183  0  0
+	 SLC  VHZ   717      P ID0  54.38    8.75
+	 SCC  VHZ   697      P E 2  56.95    9.10
+	 SCC  VHZ   697      S E 2  56.95   16.67
+	 SBC  HHZ  1337      P ID1  60.32    9.97
+	 SYP  VHZ   783      P ID1  62.46   10.45
+	 SCD  VHZ   698      P E 2  69.35   11.35
+	 SCD  VHZ   698      S E 3  69.35   19.07
+	 SXT  VHZ   775      P IU1  76.70   13.14
+	 BMT  VHZ   150      P E 2  90.37   14.56
+	 BMT  VHZ   150      S E 2  90.37   25.45
+	 BTP  HHZ  7316      P E 3  95.94   15.51
+	 BTP  HHE  7318      P E 2  95.94   15.58
+	 WS2  VHZ  1019      P E 2  99.04   15.69
+	 SLG  VHZ   682      P ID1 105.55   17.07
+	 DBM  VHZ   246      P ID0 110.16   17.80
+	 WJP  VHZ   901      P IU1 110.63   17.76
+	 SIP  VHZ   714      P IU1 110.89   18.38
+	 WHV  VHZ   892      P ID1 113.06   17.99
+	 BLC  VHZ   142      P E 3 114.43   18.74
+	 SND  VHZ   733      P E 2 117.16   18.85
+	 LEO  VHZ   439      P E 2 121.23   19.33
+	 TPO  VHZ   817      P E 2 122.76   19.73
+	 WAS  VHZ   877      P IU1 125.77   20.09
+	 SAD  VHZ   666      P E 2 128.25   20.32
+	0299    C 65535      P IU1 11687.02   14.24
+2000/08/01 10:58:01.8 L 1.8 l  34.674 -116.296   4.1 A 9158995  18 101  0  0
+	 RAG  VHZ  1034      P ID0  13.37    2.55
+	 RAG  VHZ  1034      S E 3  13.37    4.37
+	 CDY  VHZ   184      P IU1  17.76    3.28
+	 CDY  VHZ   184      S E 2  17.76    5.70
+	 HDB  VHZ  1032      P IU1  30.38    5.40
+	 HDB  VHZ  1032      S E 2  30.38    9.46
+	 RMM  VHZ   647      P ID0  30.46    5.34
+	 RMM  VHZ   647      S E 3  30.46    9.43
+	 TPM  VHZ  1033      P ID0  39.85    6.86
+	 GTM  VHZ   377      P IU1  42.55    7.20
+	 GTM  VHZ   377      S E 2  42.55   12.64
+	 RMR  VHZ   654      P IU1  57.42    9.75
+	 GRP  VHZ   355      P ID1  65.16   10.83
+	 GRP  VHZ   355      S E 3  65.16   18.83
+	 TPC  VHZ   814      P E 3  67.16   11.62
+	 RAY  VHZ   633      P ID1  85.33   14.46
+	 HOD  VHZ   395      P E 2  89.61   15.06
+	 BLK  VHZ   143      P E 3  96.84   16.40
+2000/08/01 11:00:35.0 L 1.3 h  34.423 -116.142  12.8 C 9158996   6  93  0  0
+	 TPM  VHZ  1033      P ID0   8.69    2.56
+	 HDB  VHZ  1032      P IU1  13.56    3.12
+	 HDB  VHZ  1032      S E 2  13.56    5.57
+	 GTM  VHZ   377      P E 2  24.35    4.52
+	 GTM  VHZ   377      S E 3  24.35    7.41
+	 TPC  VHZ   814      P E 2  36.31    6.58
+2000/08/01 11:09:29.5 L 2.5 l  34.464 -116.301   0.5 A 9159009  43 991  0  0
+	 HDB  VHZ  1032      P IU0   7.14    1.55
+	 HDB  VHZ  1032      S E 3   7.14    3.20
+	 GTM  VHZ   377      P ID0  19.51    3.41
+	 GTM  VHZ   377      S E 3  19.51    6.03
+	 TPM  VHZ  1033      P ID0  23.12    4.11
+	 RAG  VHZ  1034      P ID1  27.98    5.04
+	 RAG  VHZ  1034      S E 2  27.98    8.84
+	 RMM  VHZ   647      P IU1  35.90    6.54
+	 RMR  VHZ   654      P ID0  37.74    6.65
+	 HEC  HHZ  7235      P IU0  40.75    7.35
+	 HEC  HHE  7237      S E 2  40.75   12.80
+	 CDY  VHZ   184      P IU1  40.84    7.40
+	 CDY  VHZ   184      S E 3  40.84   12.84
+	 TPC  VHZ   814      P E 2  46.11    8.06
+	 TPC  VHZ   814      S E 2  46.11   14.24
+	 SIL  VHZ   711      P ID0  50.22    8.85
+	 SIL  VHZ   711      S E 3  50.22   15.27
+	 EW2  VHZ  1011      P ID0  59.06   10.11
+	 SHE  VHZ  1035      P ID1  59.67   10.69
+	 LUC  VHZ   466      P ID0  61.20   10.67
+	 RAY  VHZ   633      P ID0  66.91   11.72
+	 BTL  VHZ   170      P ID0  68.88   12.03
+	 GRP  VHZ   355      P E 2  74.35   12.43
+	 GRP  VHZ   355      S E 2  74.35   21.48
+	 PSP  VHZ   620      P ID0  77.98   13.04
+	 FRG  VHZ   330      P E 2  81.61   13.95
+	 MEC  VHZ   472      P ID1  95.48   16.29
+	 CTW  VHZ   237      P E 2  96.00   16.56
+	 HOD  VHZ   395      P E 2  96.70   16.53
+	 CSP  VHZ   235      P IU1  99.20   16.81
+	 PEC  VHZ   568      P IU1 101.67   17.20
+	 POB  VHZ   605      P ID1 103.75   17.47
+	 HMT  VHZ   392      P E 3 106.07   17.84
+	 BLK  VHZ   143      P E 2 109.53   18.72
+	 RVR  VHZ   661      P E 2 112.02   18.72
+	 WIN  VHZ   895      P ID1 114.09   19.02
+	 SS2  VHZ   747      P ID1 114.19   19.47
+	 BAC  VHZ   123      P ID1 116.70   19.42
+	 SME  VHZ   722      P ID1 120.60   19.95
+	 FRK  VHZ   332      P E 2 132.94   22.58
+	 OLY  VHZ   515      P ID1 137.32   22.65
+	 ELS  VHZ   297      P ID1 138.02   22.73
+	0299    C 65535      P ID1 11385.54    7.70
+2000/08/01 11:29:45.0 L 1.0 h  33.643 -116.844  13.4 B 9159000  10  56  0  0
+	 POB  VHZ   605      P IU0   8.85    2.71
+	 POB  VHZ   605      S E 3   8.85    4.65
+	 HMT  VHZ   392      P IU0  16.46    3.55
+	 HMT  VHZ   392      S E 3  16.46    6.03
+	 BAC  VHZ   123      P IU0  18.44    3.84
+	 BAC  VHZ   123      S E 2  18.44    6.59
+	 WIN  VHZ   895      P IU1  24.35    4.66
+	 WIN  VHZ   895      S E 2  24.35    8.00
+	 SKY  VHZ   716      P E 3  28.39    5.18
+	 SKY  VHZ   716      S E 3  28.39    9.24
+2000/08/01 12:26:16.0 L 2.6 l  32.032 -114.958   6.0 D 9159001   7  92  0  0
+	 YMD  VHZ   934      P ID0  68.98   11.59
+	 YMD  VHZ   934      S E 3  68.98   20.11
+	 EMS  VHZ   298      P ID1  78.68   13.59
+	 PLT  VHZ   597      P ID1  80.54   13.02
+	 COA  VHZ   218      P ID1  93.70   15.46
+	 RUN  VHZ   658      P ID1 104.56   16.48
+	 IKP  VHZ   400      P E 3 126.46   21.26
+2000/08/01 12:52:55.9 L 1.3 h  34.559 -116.252   8.9 B 9159011  15  73  0  0
+	 RAG  VHZ  1034      P ID0  16.61    3.14
+	 RAG  VHZ  1034      S E 2  16.61    5.58
+	 HDB  VHZ  1032      P IU0  17.87    3.51
+	 TPM  VHZ  1033      P ID0  26.87    4.81
+	 GTM  VHZ   377      P ID1  30.92    5.20
+	 GTM  VHZ   377      S E 2  30.92    9.30
+	 CDY  VHZ   184      P IU1  31.15    5.45
+	 CDY  VHZ   184      S E 3  31.15    9.63
+	 RMM  VHZ   647      P IU1  35.60    6.14
+	 RMM  VHZ   647      S E 2  35.60   10.69
+	 RMR  VHZ   654      P IU1  48.74    8.24
+	 TPC  VHZ   814      P E 2  53.76    9.20
+	 SIL  VHZ   711      P E 3  58.00    9.75
+	 SHE  VHZ  1035      P E 3  61.10   10.53
+	 GRP  VHZ   355      P IU1  65.44   10.90
+2000/08/01 13:40:39.9 L 3.3 l  34.802 -116.266   6.0 A 9159031  38 854  0  0
+	 HEC  HLZ  7238      P IU0   7.05    1.62
+	 HEC  HLN  7239      S E 2   7.05    3.05
+	 CDY  VHZ   184      P IU0   7.27    1.67
+	 RAG  VHZ  1034      P IU0  16.94    3.13
+	 RMM  VHZ   647      P ID0  37.43    6.30
+	 RMM  VLN   652      S E 2  37.43   11.04
+	 HDB  VHZ  1032      P ID0  44.64    7.61
+	 TPM  VHZ  1033      P ID0  51.71    8.74
+	 BKR  HHZ  7043      P ID1  55.00    9.06
+	 BKR  HHE  7045      S E 2  55.00   15.96
+	 GTM  VHZ   377      P ID0  57.03    9.31
+	 GTM  VHZ   377      S E 2  57.03   16.45
+	 GRP  VHZ   355      P IU0  60.75   10.06
+	 RMR  VHZ   654      P ID0  71.49   11.77
+	 SIL  VHZ   711      P ID0  72.30   12.02
+	 FLS  VHZ   323      P IU1  73.69   11.83
+	 GSC  VHZ   365      P IU0  74.59   12.39
+	 GSC  VHZ   365      S E 3  74.59   21.79
+	 LUC  VHZ   466      P ID0  75.10   12.36
+	 TPC  VHZ   814      P IU0  79.96   13.37
+	 SHE  VHZ  1035      P IU1  80.73   13.27
+	 HOD  VHZ   395      P IU1  90.58   14.59
+	 BTL  VHZ   170      P ID1  91.19   15.13
+	 BLK  VHZ   143      P IU1  93.52   15.16
+	 EW2  VHZ  1011      P ID0  96.71   15.86
+	 RAY  VHZ   633      P ID1  98.84   16.38
+	 SBP  VLZ   687      P E 2 109.50   18.21
+	 CSP  VHZ   235      P IU0 115.24   18.86
+	 FRG  VHZ   330      P IU1 117.68   19.53
+	 SBK  VHZ   681      P IU1 125.25   20.32
+	 XMS  VHZ   930      P E 2 129.15   20.93
+	 PEC  VHZ   568      P IU0 130.58   21.30
+	 SKY  VHZ   716      P ID1 137.96   22.37
+	 TAB  VHZ   787      P E 2 138.61   22.74
+	 HMT  VHZ   392      P ID1 139.29   22.69
+	 WSH  VHZ   918      P IU1 143.71   22.47
+	 HOL  VHZ  1027      P E 2 150.50   23.60
+	0299    C 65535      P ID1 11395.21   13.55
+2000/08/01 13:56:55.1 L 1.9 h  34.812 -116.270   7.3 A 9159019  18  67  0  0
+	 CDY  VHZ   184      P IU0   6.51    1.73
+	 CDY  VHZ   184      S E 3   6.51    3.08
+	 RAG  VHZ  1034      P IU1  18.05    3.24
+	 RAG  VHZ  1034      S E 2  18.05    5.80
+	 RMM  VHZ   647      P E 2  37.64    6.34
+	 HDB  VHZ  1032      P E 3  45.74    7.70
+	 TPM  VHZ  1033      P IU1  52.88    8.84
+	 TPM  VHZ  1033      S E 2  52.88   15.66
+	 GTM  VHZ   377      P E 2  58.08    9.38
+	 GRP  VHZ   355      P IU0  61.12   10.18
+	 RMR  VHZ   654      P E 3  72.36   11.82
+	 SIL  VHZ   711      P E 3  72.82   12.10
+	 LUC  VHZ   466      P E 3  75.36   12.44
+	 TPC  VHZ   814      P E 3  81.13   13.64
+	 HOD  VHZ   395      P E 3  90.16   14.77
+	 EW2  VHZ  1011      P E 2  97.76   16.14
+	 HYS  VHZ   399      P E 3 119.96   19.63
+	 SBK  VHZ   681      P E 3 124.62   20.61
+2000/08/01 13:59:02.1 L 1.4 h  34.799 -116.292   6.2 C 9159020   9  63  0  0
+	 CDY  VHZ   184      P IU1   5.41    1.49
+	 RAG  VHZ  1034      P IU1  18.29    3.32
+	 RAG  VHZ  1034      S E 3  18.29    5.86
+	 RMM  VHZ   647      P ID1  35.16    6.03
+	 TPM  VHZ  1033      P ID1  52.24    8.83
+	 GTM  VHZ   377      P E 3  56.40    9.20
+	 GRP  VHZ   355      P ID1  63.15   10.47
+	 GRP  VHZ   355      S E 3  63.15   17.90
+	 TPC  VHZ   814      P E 3  80.28   13.52
+2000/08/01 14:44:12.6 L 1.1 c  35.962 -117.693   5.2 A 9159024   8  51  0  0
+	 WRC  VHZ   911      P IU1   4.41    1.26
+	 WCS  VHZ   885      P E 3   9.98    1.85
+	 WVP  VHZ   925      P IU1  11.54    2.25
+	 TOW  VHZ   813      P E 2  18.28    3.78
+	 CLC  VHZ   202      P E 2  18.49    3.37
+	 WMF  VHZ   906      P E 3  22.86    3.94
+	 WMF  VHZ   906      S E 2  22.86    7.08
+	 WNM  VHZ   908      P E 3  23.74    4.23
+2000/08/01 14:45:36.8 L 1.3 h  34.806 -116.271   7.3 A 9159025   7  79  0  0
+	 CDY  VHZ   184      P IU0   6.66    1.73
+	 RAG  VHZ  1034      P IU1  17.58    3.19
+	 RAG  VHZ  1034      S E 2  17.58    5.77
+	 RMM  VHZ   647      P ID1  37.23    6.33
+	 TPM  VHZ  1033      P IU1  52.29    8.88
+	 GRP  VHZ   355      P IU1  61.21   10.14
+	0299    C 65535      P IU1 11395.79    7.39
+2000/08/01 15:04:17.9 L 1.4 h  34.810 -116.268   7.1 A 9159030  19  83  0  0
+	 CDY  VHZ   184      P IU0   6.76    1.73
+	 RAG  VHZ  1034      P IU1  17.76    3.16
+	 RAG  VHZ  1034      S E 2  17.76    5.75
+	 RMM  VHZ   647      P ID1  37.69    6.35
+	 RMM  VHZ   647      S E 2  37.69   11.22
+	 HDB  VHZ  1032      P E 2  45.52    7.73
+	 HDB  VHZ  1032      S E 2  45.52   13.54
+	 TPM  VHZ  1033      P ID1  52.61    8.77
+	 GTM  VHZ   377      P E 2  57.88    9.48
+	 GTM  VHZ   377      S E 2  57.88   16.52
+	 GRP  VHZ   355      P IU1  60.93   10.11
+	 GRP  VHZ   355      S E 2  60.93   17.59
+	 RMR  VHZ   654      P E 2  72.23   11.90
+	 RMR  VHZ   654      S E 3  72.23   20.61
+	 TPC  VHZ   814      P ID1  80.87   13.52
+	 TPC  VHZ   814      S E 2  80.87   22.80
+	 SHE  VHZ  1035      P E 3  81.54   12.96
+	0299    C 65535      P IU1 11395.68    7.39
+	0299    C 65535      S E 3 11395.68   12.67
+2000/08/01 15:35:19.7 L 2.6 l  34.806 -116.269   6.6 A 9159034  30 816  0  0
+	 HEC  HHZ  7235      P IU0   6.62    1.58
+	 HEC  HHN  7236      S I 1   6.62    2.95
+	 CDY  VHZ   184      P IU1   6.83    1.62
+	 RAG  VHZ  1034      P IU1  17.46    3.17
+	 RMM  VHZ   647      P ID0  37.40    6.25
+	 RMM  VLN   652      S E 2  37.40   11.07
+	 HDB  VHZ  1032      P IU1  45.07    7.66
+	 HDB  VHZ  1032      S E 3  45.07   13.42
+	 TPM  VHZ  1033      P ID0  52.22    8.76
+	 GTM  VHZ   377      P E 2  57.43    9.35
+	 GRP  VHZ   355      P IU0  61.02   10.15
+	 RMR  VHZ   654      P ID1  71.78   11.74
+	 SIL  VHZ   711      P ID1  72.41   11.96
+	 FLS  VHZ   323      S E 3  73.31   20.92
+	 GSC  VHZ   365      P IU1  74.07   12.42
+	 LUC  VHZ   466      P ID0  75.09   12.31
+	 TPC  VHZ   814      P IU1  80.46   13.40
+	 SHE  VHZ  1035      P E 2  81.25   13.58
+	 HOD  VHZ   395      P E 3  90.28   14.70
+	 HOD  VHZ   395      S E 2  90.28   25.53
+	 BTL  VHZ   170      P ID1  91.28   15.10
+	 RAY  VHZ   633      P ID1  99.09   16.38
+	 CSP  VHZ   235      P E 2 115.22   18.84
+	 FRG  VHZ   330      P E 2 118.17   19.80
+	 HYS  VHZ   399      P E 3 120.09   19.43
+	 XMS  VHZ   930      P E 2 128.65   20.92
+	 SKY  VHZ   716      P E 2 138.18   22.34
+	 POB  VHZ   605      P E 2 138.31   22.93
+	0299    C 65535      P IU0 11395.62    7.30
+	0299    C 65535      S E 3 11395.62   12.58
+2000/08/01 15:45:27.7 L 1.6 c  33.920 -118.323   6.0 C 9159035   8  50  0  0
+	 SAD  VHZ   666      P IU1  36.29    6.34
+	 SAD  VHZ   666      S E 3  36.29   10.71
+	 SIP  VHZ   714      P E 2  52.74    8.63
+	 CFL  VHZ   185      P E 2  53.56    8.81
+	 XTL  VHZ   931      P E 3  59.60    9.91
+	 HOL  VHZ  1027      P E 2  74.32   12.53
+	 WS2  VHZ  1019      P E 2  78.63   12.97
+	 ELS  VHZ   297      P E 3  87.90   14.38
+2000/08/01 15:57:19.2 L 1.6 l  34.337 -116.476   4.9 A 9159036  30  86  0  0
+	 GTM  VHZ   377      P ID0  12.02    2.30
+	 GTM  VHZ   377      S E 2  12.02    4.24
+	 RMR  VHZ   654      P ID0  16.62    3.14
+	 RMR  VHZ   654      S E 3  16.62    5.51
+	 HDB  VHZ  1032      P E 3  18.85    3.58
+	 HDB  VHZ  1032      S E 3  18.85    6.31
+	 SIL  VHZ   711      P E 2  32.42    5.83
+	 SIL  VHZ   711      S E 2  32.42    9.31
+	 TPM  VHZ  1033      P E 2  36.43    6.15
+	 RMM  VHZ   647      P IU0  36.76    6.34
+	 EW2  VHZ  1011      P E 2  44.55    7.39
+	 EW2  VHZ  1011      S E 2  44.55   13.27
+	 RAY  VHZ   633      P IU1  45.55    7.84
+	 TPC  VHZ   814      P IU1  46.99    7.84
+	 TPC  VHZ   814      S E 3  46.99   13.85
+	 RAG  VHZ  1034      P E 2  48.73    8.20
+	 CDY  VHZ   184      P E 3  56.30    9.52
+	 PSP  VHZ   620      P E 3  60.79    9.78
+	 FRG  VHZ   330      P E 3  74.91   12.37
+	 POB  VHZ   605      P E 2  83.25   13.66
+	 HOD  VHZ   395      P E 2  90.40   15.41
+	 HOD  VHZ   395      S E 3  90.40   25.98
+	 CTW  VHZ   237      P E 2  92.09   15.51
+	 WIN  VHZ   895      P E 3  92.93   15.31
+	 BAC  VHZ   123      P E 3  95.94   15.87
+	 BLK  VHZ   143      P E 3 108.11   18.11
+	 MIR  VHZ   474      P ID1 108.65   18.28
+	 HYS  VHZ   399      P E 2 116.69   19.38
+	 FRK  VHZ   332      P E 3 129.50   21.84
+	0299    C 65535      P IU1 11395.99   13.48
+2000/08/01 15:59:56.7 L 1.5 c  34.337 -116.477   4.6 A 9159037  26  83  0  0
+	 GTM  VHZ   377      P ID0  12.11    2.30
+	 GTM  VHZ   377      S E 2  12.11    4.23
+	 RMR  VHZ   654      P ID0  16.57    3.13
+	 HDB  VHZ  1032      P E 3  18.93    3.69
+	 HDB  VHZ  1032      S E 3  18.93    6.26
+	 SIL  VHZ   711      P E 2  32.33    5.73
+	 SIL  VHZ   711      S E 3  32.33    9.29
+	 TPM  VHZ  1033      P E 2  36.52    6.21
+	 TPM  VHZ  1033      S E 3  36.52   10.70
+	 RMM  VHZ   647      P IU1  36.72    6.34
+	 RMM  VHZ   647      S E 3  36.72   11.32
+	 EW2  VHZ  1011      P ID1  44.56    7.48
+	 EW2  VHZ  1011      S E 2  44.56   13.26
+	 RAY  VHZ   633      P IU1  45.49    7.83
+	 TPC  VHZ   814      P E 2  47.07    7.85
+	 RAG  VHZ  1034      P E 3  48.79    8.33
+	 CDY  VHZ   184      P E 3  56.32    9.36
+	 CDY  VHZ   184      S E 3  56.32   16.78
+	 FRG  VHZ   330      P E 3  74.95   12.39
+	 POB  VHZ   605      P E 2  83.20   13.98
+	 GRP  VHZ   355      P E 2  95.59   16.25
+	 BAC  VHZ   123      P E 3  95.89   15.94
+	 BAC  VHZ   123      S E 2  95.89   27.23
+	 MIR  VHZ   474      P ID1 108.68   18.26
+	 HYS  VHZ   399      P IU1 116.61   19.49
+	0299    C 65535      P E 2 11396.08   13.04
+2000/08/01 16:02:05.8 L 1.9 l  34.336 -116.475   5.9 C 9159038  31  99  0  0
+	 GTM  VHZ   377      P ID1  11.90    2.28
+	 GTM  VHZ   377      S E 2  11.90    4.22
+	 RMR  VHZ   654      P IU1  16.58    3.11
+	 RMR  VHZ   654      S E 3  16.58    5.52
+	 HDB  VHZ  1032      P E 2  18.81    3.39
+	 HDB  VHZ  1032      S E 3  18.81    6.25
+	 SIL  VHZ   711      P E 2  32.52    5.72
+	 SIL  VHZ   711      S E 2  32.52    9.29
+	 TPM  VHZ  1033      P E 3  36.35    6.15
+	 RMM  VHZ   647      P IU1  36.90    6.34
+	 EW2  VHZ  1011      P IU1  44.43    7.37
+	 RAY  VHZ   633      P IU0  45.53    7.83
+	 TPC  VHZ   814      P IU1  46.86    7.84
+	 LUC  VHZ   466      P E 3  47.04    7.92
+	 RAG  VHZ  1034      P E 2  48.76    8.04
+	 BTL  VHZ   170      P E 3  49.66    8.57
+	 CDY  VHZ   184      P E 2  56.39    9.37
+	 PSP  VHZ   620      P E 2  60.69    9.78
+	 FRG  VHZ   330      P E 2  74.76   12.52
+	 POB  VHZ   605      P E 2  83.19   13.76
+	 HMT  VHZ   392      P E 3  85.09   14.07
+	 FLS  VHZ   323      P E 3  87.63   14.71
+	 MEC  VHZ   472      P E 3  88.08   14.75
+	 HOD  VHZ   395      P E 3  90.54   15.34
+	 CTW  VHZ   237      P E 3  91.94   15.47
+	 WIN  VHZ   895      P E 3  92.90   15.32
+	 BLK  VHZ   143      P E 2 108.25   18.10
+	 MIR  VHZ   474      P E 3 108.51   17.66
+	 HYS  VHZ   399      P E 3 116.83   19.39
+	 BC3  VHZ   137      P E 3 120.88   20.65
+	0299    C 65535      P IU1 11395.87   13.48
+2000/08/01 16:16:39.0 L 1.6 c  34.150 -116.405   5.2 A 9159039  43  78  0  0
+	 GTM  VHZ   377      P ID0  16.70    2.98
+	 GTM  VHZ   377      S E 2  16.70    5.33
+	 RMR  VHZ   654      P IU0  17.27    3.31
+	 RMR  VHZ   654      S E 2  17.27    5.82
+	 EW2  VHZ  1011      P ID0  23.32    4.14
+	 EW2  VHZ  1011      S E 2  23.32    7.15
+	 TPC  VHZ   814      P IU1  33.15    5.62
+	 TPC  VHZ   814      S E 2  33.15    9.84
+	 TPM  VHZ  1033      P E 2  38.02    6.52
+	 TPM  VHZ  1033      S E 2  38.02   11.67
+	 RAY  VHZ   633      P IU1  39.64    6.92
+	 RAY  VHZ   633      S E 2  39.64   12.12
+	 PSP  VHZ   620      P E 2  41.80    6.65
+	 PSP  VHZ   620      S E 2  41.80   11.80
+	 SIL  VHZ   711      P IU1  44.74    7.65
+	 SIL  VHZ   711      S E 2  44.74   13.22
+	 FRG  VHZ   330      P IU1  53.90    9.29
+	 FRG  VHZ   330      S E 2  53.90   15.90
+	 RMM  VHZ   647      P E 2  58.52    9.43
+	 RMM  VHZ   647      S E 2  58.52   16.54
+	 LUC  VHZ   466      P E 2  61.73   10.40
+	 RAG  VHZ  1034      P IU1  63.70   10.62
+	 MEC  VHZ   472      P E 2  66.89   11.32
+	 POB  VHZ   605      P IU1  70.28   11.70
+	 POB  VHZ   605      S E 2  70.28   20.03
+	 CTW  VHZ   237      P E 2  71.94   12.43
+	 CTW  VHZ   237      S E 2  71.94   20.76
+	 HMT  VHZ   392      P IU1  73.86   12.28
+	 HMT  VHZ   392      S E 2  73.86   21.03
+	 CDY  VHZ   184      P E 2  75.88   12.42
+	 SKY  VHZ   716      P E 2  76.95   12.80
+	 SKY  VHZ   716      S E 2  76.95   21.89
+	 WIN  VHZ   895      P E 2  82.73   13.61
+	 WIN  VHZ   895      S E 2  82.73   23.21
+	 BAC  VHZ   123      P IU1  83.72   13.73
+	 BAC  VHZ   123      S E 2  83.72   23.30
+	 MIR  VHZ   474      P E 2  86.87   13.61
+	 MIR  VHZ   474      S E 2  86.87   24.72
+	 OLY  VHZ   515      P E 2 103.47   16.73
+	 BC3  VHZ   137      P E 2 103.60   17.61
+	 JUL  VHZ   424      P E 2 124.02   20.14
+	 LTC  VHZ   464      P E 2 142.52   23.56
+	0299    C 65535      P E 2 11382.87   16.89
+2000/08/01 16:25:14.6 L 1.3 h  34.813 -116.270   7.7 A 9159040   9  54  0  0
+	 CDY  VHZ   184      P E 2   6.48    1.67
+	 CDY  VHZ   184      S E 2   6.48    3.06
+	 RAG  VHZ  1034      P IU1  18.13    3.22
+	 RAG  VHZ  1034      S E 2  18.13    6.13
+	 RMM  VHZ   647      P E 3  37.70    6.26
+	 RMM  VHZ   647      S E 2  37.70   11.17
+	 TPM  VHZ  1033      P E 3  52.99    8.82
+	 GRP  VHZ   355      P E 2  61.12   10.23
+	0299    C 65535      P IU0 11395.97    7.35
+2000/08/01 16:47:02.8 L 1.5 h  34.146 -117.344   3.1 D 9159041  10  59  0  0
+	 SBP  VLZ   687      P E 3  13.91    2.72
+	 SBP  VLZ   687      S E 3  13.91    4.32
+	 SKY  VHZ   716      P E 3  46.60    7.99
+	 SKY  VHZ   716      S E 3  46.60   13.84
+	 RAY  VHZ   633      P IU1  50.41    8.70
+	 ELS  VHZ   297      P E 3  56.03    9.40
+	 WIN  VHZ   895      P E 3  56.05    9.67
+	 POB  VHZ   605      P E 3  64.06   10.77
+	 BAC  VHZ   123      P E 3  65.62   11.34
+	 EW2  VHZ  1011      P E 3  89.25   14.98
+2000/08/01 16:58:09.8 L 1.9 l  34.805 -116.269   6.9 A 9159042  12  71  0  0
+	 CDY  VHZ   184      P IU0   6.88    1.72
+	 CDY  VHZ   184      S E 3   6.88    3.10
+	 RAG  VHZ  1034      P IU0  17.38    3.18
+	 RAG  VHZ  1034      S E 2  17.38    5.78
+	 RMM  VHZ   647      P ID1  37.34    6.33
+	 RMM  VHZ   647      S E 3  37.34   11.19
+	 HDB  VHZ  1032      P E 3  44.96    7.73
+	 TPM  VHZ  1033      P ID1  52.12    8.80
+	 GTM  VHZ   377      P E 3  57.32    9.51
+	 GRP  VHZ   355      P IU0  61.02   10.12
+	 XMS  VHZ   930      P E 2 128.72   21.27
+	0299    C 65535      P IU1 11395.58    7.38
+2000/08/01 17:32:21.2 L 1.0 h  34.673 -116.304   3.2 C 9159043  11  56  0  0
+	 RAG  VHZ  1034      P E 2  14.11    2.57
+	 RAG  VHZ  1034      S E 3  14.11    4.60
+	 CDY  VHZ   184      P E 2  17.73    3.26
+	 CDY  VHZ   184      S E 3  17.73    5.91
+	 RMM  VHZ   647      P E 3  29.71    5.02
+	 RMM  VHZ   647      S E 3  29.71    9.47
+	 HDB  VHZ  1032      P E 3  30.30    5.14
+	 HDB  VHZ  1032      S E 3  30.30    9.76
+	 TPM  VHZ  1033      P IU1  40.12    7.03
+	 RMR  VHZ   654      P E 3  56.99    9.89
+	0299    C 65535      P E 2 11393.64    8.96
+2000/08/01 17:50:03.5 L 1.4 h  34.822 -116.258   5.9 B 9159045  10  57  0  0
+	 CDY  VHZ   184      P IU0   7.35    1.63
+	 CDY  VHZ   184      S E 2   7.35    3.04
+	 RAG  VHZ  1034      P E 2  18.33    3.29
+	 RAG  VHZ  1034      S E 2  18.33    5.66
+	 TPM  VHZ  1033      P E 3  53.59    9.16
+	 TPM  VHZ  1033      S E 2  53.59   15.53
+	 GRP  VHZ   355      P IU1  60.04   10.07
+	 RMR  VHZ   654      P E 3  73.82   12.76
+	0299    C 65535      P IU1 11395.27    7.29
+	0299    C 65535      S E 3 11395.27   12.54
+2000/08/01 17:56:49.4 L 1.0 h  34.453 -116.268  10.5 B 9159046   9  61  0  0
+	 HDB  VHZ  1032      P ID1   6.04    2.13
+	 HDB  VHZ  1032      S E 3   6.04    3.50
+	 GTM  VHZ   377      P ID1  19.39    3.67
+	 GTM  VHZ   377      S E 2  19.39    6.38
+	 TPM  VHZ  1033      P IU1  19.87    3.80
+	 RAG  VHZ  1034      P ID1  27.73    4.96
+	 RAG  VHZ  1034      S E 3  27.73    8.43
+	 RMR  VHZ   654      P E 2  39.00    6.84
+	 GRP  VHZ   355      P IU1  72.41   12.03
+2000/08/01 18:04:28.1 L 1.4 h  34.682 -116.289   5.3 B 9159047   8  68  0  0
+	 RAG  VHZ  1034      P ID1  12.69    2.48
+	 RAG  VHZ  1034      S E 2  12.69    4.30
+	 CDY  VHZ   184      P IU1  17.05    3.16
+	 RMM  VHZ   647      P E 2  31.21    5.41
+	 RMM  VHZ   647      S E 3  31.21    9.39
+	 TPM  VHZ  1033      P ID1  40.31    6.89
+	 GRP  VHZ   355      P E 3  64.33   10.75
+	0299    C 65535      P IU1 11392.68    8.89
+2000/08/01 18:12:27.1 L 1.8 l  34.255 -117.532  12.3 A 9159048  41 100  0  0
+	 SS2  VHZ   747      P IU0   6.05    2.26
+	 SS2  VHZ   747      S E 3   6.05    3.99
+	 SUN  VHZ   768      P ID0  15.73    3.41
+	 SUN  VHZ   768      S E 2  15.73    6.06
+	 CSP  VHZ   235      P ID0  16.71    3.49
+	 CSP  VHZ   235      S E 2  16.71    6.12
+	 TAB  VHZ   787      P E 2  19.79    4.01
+	 GAV  VHZ   336      P ID1  25.98    4.74
+	 GAV  VHZ   336      S E 2  25.98    8.13
+	 XTL  VHZ   931      P IU0  30.78    5.52
+	 XTL  VHZ   931      S E 2  30.78    9.45
+	 EL2  VHZ   942      P ID1  32.21    5.71
+	 EL2  VHZ   942      S E 2  32.21    9.62
+	 RVR  VHZ   661      P E 3  32.46    5.88
+	 RVR  VHZ   661      S E 2  32.46    9.81
+	 HOL  VHZ  1027      P IU1  36.65    6.56
+	 HOL  VLN  1029      S E 2  36.65   11.10
+	 CFL  VHZ   185      P E 2  46.16    7.91
+	 CFL  VHZ   185      S E 3  46.16   13.10
+	 SME  VHZ   722      P E 3  50.71    8.69
+	 SME  VHZ   722      S E 2  50.71   14.62
+	 PEC  VHZ   568      P E 3  52.89    9.24
+	 PEC  VHZ   568      S E 2  52.89   15.66
+	 VPD  VHZ   860      P E 2  53.28    9.53
+	 SBB  VHZ   669      P ID1  55.22    9.22
+	 SBB  VHZ   669      S E 3  55.22   15.68
+	 SKY  VHZ   716      P E 3  66.14   10.97
+	 SKY  VHZ   716      S E 3  66.14   18.89
+	 HYS  VHZ   399      P ID0  67.95   11.34
+	 ELS  VHZ   297      P IU1  68.28   11.36
+	 ELS  VHZ   297      S E 3  68.28   19.39
+	 HOD  VHZ   395      P ID1  70.02   11.65
+	 HOD  VHZ   395      S E 3  70.02   20.15
+	 RAY  VHZ   633      P E 2  70.55   12.25
+	 WIN  VHZ   895      P E 2  74.86   12.19
+	 WIN  VHZ   895      S E 3  74.86   21.15
+	 HMT  VHZ   392      P E 2  77.83   12.86
+	 HMT  VHZ   392      S E 2  77.83   21.83
+	 POB  VHZ   605      P E 2  84.44   13.82
+	 POB  VHZ   605      S E 3  84.44   24.34
+	 OLY  VHZ   515      P E 2  99.21   16.31
+2000/08/01 18:34:04.3 L 1.4 h  33.896 -116.885  19.2 C 9159050   8  63  0  0
+	 RAY  VHZ   633      P E 3  17.07    4.29
+	 POB  VHZ   605      P IU0  23.52    4.93
+	 POB  VHZ   605      S E 2  23.52    8.60
+	 HMT  VHZ   392      P IU1  23.52    4.93
+	 HMT  VHZ   392      S E 3  23.52    8.24
+	 SKY  VHZ   716      P E 2  24.45    5.04
+	 WIN  VHZ   895      P E 2  31.10    6.06
+	 WIN  VHZ   895      S E 3  31.10   10.38
+2000/08/01 18:39:07.1 L 2.3 l  34.609 -116.302   0.9 A 9159051  25 107  0  0
+	 RAG  VHZ  1034      P ID1  16.13    3.02
+	 HDB  VHZ  1032      P IU1  23.18    4.42
+	 CDY  VHZ   184      P IU1  24.79    4.47
+	 CDY  VHZ   184      S E 3  24.79    7.85
+	 RMM  VHZ   647      P ID1  29.97    5.42
+	 TPM  VHZ  1033      P ID1  34.08    6.12
+	 GTM  VHZ   377      P IU1  35.31    6.13
+	 RMR  VHZ   654      P E 2  50.79    8.82
+	 RMR  VHZ   654      S E 3  50.79   14.73
+	 SIL  VHZ   711      P ID1  56.47    9.75
+	 SIL  VHZ   711      S E 3  56.47   17.21
+	 TPC  VHZ   814      P IU1  60.62   10.57
+	 GRP  VHZ   355      P ID1  67.66   11.34
+	 EW2  VHZ  1011      P IU1  74.99   12.79
+	 BTL  VHZ   170      P ID1  75.73   13.05
+	 BTL  VHZ   170      S E 3  75.73   22.03
+	 RAY  VHZ   633      P E 2  79.11   13.69
+	 HOD  VHZ   395      P E 2  90.83   15.45
+	 BLK  VHZ   143      P IU1 100.01   16.97
+	 CTW  VHZ   237      P E 2 110.92   18.94
+	 HAY  VHZ   389      P E 3 117.42   20.21
+	 POB  VHZ   605      P E 2 117.47   19.87
+	 HYS  VHZ   399      P IU1 120.29   20.16
+	 BC3  VHZ   137      P E 3 131.84   22.12
+	0299    C 65535      P IU1 11391.06    9.99
+2000/08/01 18:43:51.4 L 1.5 c  34.336 -116.474   6.0 C 9159053  12  87  0  0
+	 GTM  VHZ   377      P ID1  11.81    2.26
+	 GTM  VHZ   377      S E 2  11.81    4.18
+	 RMR  VHZ   654      P IU1  16.63    3.11
+	 SIL  VHZ   711      S E 3  32.61    9.22
+	 RMM  VHZ   647      P IU1  36.93    6.33
+	 RAY  VHZ   633      P IU1  45.59    7.82
+	 TPC  VHZ   814      P E 2  46.78    7.78
+	 TPC  VHZ   814      S E 2  46.78   13.61
+	 CDY  VHZ   184      P E 3  56.37    9.44
+	 HMT  VHZ   392      P E 2  85.15   14.17
+	 GRP  VHZ   355      P E 3  95.42   16.28
+	0299    C 65535      P E 2 11395.78   13.49
+2000/08/01 19:23:52.6 L 1.9 c  34.635 -116.281  13.2 B 9159056  14  73  0  0
+	 RAG  VHZ  1034      P E 2  13.08    3.01
+	 RAG  VHZ  1034      S E 3  13.08    5.20
+	 CDY  VHZ   184      P E 2  22.30    4.26
+	 CDY  VHZ   184      S E 3  22.30    7.94
+	 HDB  VHZ  1032      P ID1  26.03    4.98
+	 HDB  VHZ  1032      S E 3  26.03    8.44
+	 RMM  VHZ   647      P ID1  31.67    5.60
+	 RMM  VHZ   647      S E 2  31.67    9.77
+	 TPM  VHZ  1033      P ID1  35.41    6.33
+	 RMR  VHZ   654      P E 2  54.27    9.21
+	 SIL  VHZ   711      P E 2  59.63   10.09
+	 GRP  VHZ   355      P E 2  64.93   11.05
+	 SHE  VHZ  1035      P E 2  68.40   10.93
+	0299    C 65535      P E 3 11390.22    9.87
+2000/08/01 19:43:34.5 L 1.4 c  36.242 -118.241   4.6 C 9159058   8  44  0  0
+	 WLH  VHZ   904      P IU0  11.97    1.97
+	 WLH  VHZ   904      S E 2  11.97    3.62
+	 WMF  VHZ   906      P IU0  38.19    6.63
+	 WMF  VHZ   906      S E 2  38.19   11.26
+	 WRV  VHZ   912      P ID1  41.49    6.89
+	 WNM  VHZ   908      P ID1  54.12    8.59
+	 WWP  VHZ   926      P E 2  58.05    9.72
+	 WAS  VHZ   877      P E 2  63.21   10.39
+2000/08/01 19:53:18.2 L 3.0 l  33.927 -118.359  15.9 A 9159070  60 1026  0  0
+	 LAX  HLZ  6105      P IU0   5.40    2.21
+	 LAF  HHZ  7738      P ID0   6.91    2.84
+	 LCG  HHZ  7753      P IU0   8.34    2.97
+	 LCG  HHE  7755      S E 2   8.34    5.59
+	 USC  HHZ  1232      P ID0  12.26    3.51
+	 USC  HHN  1233      S E 2  12.26    6.41
+	 SMS  HHZ  7214      P IU0  13.24    3.50
+	 SMS  HHN  7215      S E 2  13.24    6.61
+	 SMF  VHZ   723      P IU1  13.27    3.56
+	 BVH  HLZ  6069      P E 2  16.93    3.72
+	 BVH  HLE  6071      S E 2  16.93    7.29
+	 RPV  HHZ  1195      P ID0  20.85    4.36
+	 STS  HHE  7537      S E 2  21.22    8.50
+	 DJJ  HHZ  8048      P IU0  21.72    4.24
+	 DJJ  HHN  8049      S I 1  21.72    7.65
+	 GR2  HHZ  7375      P ID1  21.97    4.19
+	 GVR  VHZ   381      P ID1  25.92    5.36
+	 GVR  VLE   383      S E 3  25.92    9.36
+	 TCF  HLZ  6108      P E 3  28.17    5.02
+	 RUS  HHZ  7398      P E 2  29.16    5.86
+	 RUS  HHN  7399      S E 2  29.16   10.42
+	 PAS  VHZ   521      P ID0  30.10    5.20
+	 PAS  HHN  1326      S E 2  30.10    9.13
+	 TCC  VHZ   789      P ID1  32.68    6.31
+	 SAD  VHZ   666      P IU0  33.03    6.11
+	 PTD  VHZ   621      P IU1  42.17    7.68
+	 MWC  VHZ   493      P ID1  43.09    7.32
+	 MWC  HHZ  7021      P ID1  43.41    7.28
+	 BLC  VHZ   142      P IU0  45.58    8.16
+	 BLC  VHZ   142      S E 3  45.58   14.42
+	 TOV  HHZ  7283      P E 2  49.56    8.54
+	 SIP  VHZ   714      P IU1  49.64    8.58
+	 OAT  VHZ  1031      P IU1  51.97    9.75
+	 CFL  VHZ   185      P ID0  54.70    8.99
+	 VPD  VHZ   860      P E 2  56.28    9.26
+	 XTL  VHZ   931      P ID0  61.49   10.11
+	 SLG  VHZ   682      P IU1  68.17   11.34
+	 SUN  VHZ   768      P E 2  68.94   11.41
+	 CJV  VHZ   200      P ID0  69.88   11.52
+	 PLS  VHZ   590      P E 2  70.67   11.41
+	 LRR  VHZ   462      P ID0  73.27   12.08
+	 HOL  VHZ  1027      P ID0  75.73   12.35
+	 WS2  VHZ  1019      P ID0  76.94   13.04
+	 LEO  VHZ   439      P ID0  78.40   12.75
+	 GAV  VHZ   336      P E 3  79.45   12.81
+	 SS2  VHZ   747      P E 3  85.07   14.03
+	 ELS  VHZ   297      P E 3  91.29   14.35
+	 FOX  VHZ   329      P ID0  91.63   15.02
+	 SME  VHZ   722      P E 2  93.16   14.95
+	 QAL  VHZ   632      P ID1  97.13   16.14
+	 SBB  VHZ   669      P ID1  97.91   15.71
+	 CSP  VHZ   235      P E 2 101.05   16.38
+	 TPO  VHZ   817      P ID1 106.52   17.33
+	 DBM  VHZ   246      P ID0 116.95   19.18
+	 OLY  VHZ   515      P ID1 126.98   19.32
+	 SSN  VHZ   755      P E 2 130.23   21.52
+	0299    C 65535      P ID1 11544.71    7.78
+	0299    C 65535      P E 2 11544.71    3.13
+	0299    C 65535      S E 2 11544.71    8.62
+	0299    C 65535      S I 1 11544.71    5.86
+2000/08/01 20:25:57.7 L 1.2 h  34.332 -116.151   1.9 B 9159061   7  54  0  0
+	 TPM  VHZ  1033      P ID1   7.22    1.34
+	 HDB  VHZ  1032      P IU1  14.66    2.67
+	 GTM  VHZ   377      P IU1  19.35    3.54
+	 TPC  VHZ   814      P E 3  26.86    5.13
+	 TPC  VHZ   814      S E 3  26.86    8.21
+	 RMR  VHZ   654      P E 2  41.39    7.45
+	 RMR  VHZ   654      S E 3  41.39   12.48
+2000/08/01 20:34:56.9 L 1.3 h  34.683 -116.285   7.1 C 9159063  10  69  0  0
+	 RAG  VHZ  1034      P ID1  12.32    2.46
+	 RAG  VHZ  1034      S E 2  12.32    4.32
+	 CDY  VHZ   184      P IU1  17.05    3.16
+	 CDY  VHZ   184      S E 3  17.05    5.81
+	 HDB  VHZ  1032      P IU1  31.37    5.46
+	 HDB  VHZ  1032      S E 3  31.37    9.58
+	 RMM  VHZ   647      P E 2  31.59    5.36
+	 RMM  VHZ   647      S E 2  31.59    9.45
+	 GRP  VHZ   355      P E 3  63.95   10.67
+	0299    C 65535      P IU1 11392.37    8.88
+2000/08/01 21:00:39.2 L 1.9 l  34.373 -118.558   2.7 A 9159064  22 102  0  0
+	 OAT  VHZ  1031      P IU0   6.14    1.07
+	 BLC  VHZ   142      P ID0  17.88    3.24
+	 BLC  VHZ   142      S E 2  17.88    6.14
+	 OAK  VHZ   511      P E 2  20.90    4.30
+	 WS2  VHZ  1019      P ID0  24.68    4.32
+	 WS2  VHZ  1019      S E 2  24.68    8.37
+	 SIP  VHZ   714      P E 2  27.79    5.13
+	 SAD  VHZ   666      P E 2  33.96    5.96
+	 LEO  VHZ   439      P IU1  36.94    6.39
+	 CJV  VHZ   200      P E 2  41.92    7.11
+	 PAS  VHZ   521      P E 2  43.53    7.62
+	 QAL  VHZ   632      P E 2  44.26    7.72
+	 MWC  VHZ   493      P ID1  48.97    8.93
+	 CFL  VHZ   185      P ID1  49.44    8.47
+	 FOX  VHZ   329      P E 2  51.04    9.10
+	 LRR  VHZ   462      P E 2  51.69    8.92
+	 SLG  VHZ   682      P E 2  55.16    9.30
+	 XTL  VHZ   931      P E 2  64.71   10.96
+	 HOL  VHZ  1027      P E 2  66.40   11.08
+	 DBM  VHZ   246      P E 2  69.76   11.97
+	 BMT  VHZ   150      P E 2  84.96   13.87
+	 HYS  VHZ   399      P E 2 106.28   18.02
+2000/08/01 21:07:07.5 L 1.5 h  34.463 -116.307   0.0 A 9159065  17 108  0  0
+	 HDB  VHZ  1032      P IU1   7.16    1.44
+	 GTM  VHZ   377      P ID1  19.26    3.29
+	 GTM  VHZ   377      S E 2  19.26    6.34
+	 TPM  VHZ  1033      P E 2  23.55    3.98
+	 RAG  VHZ  1034      P E 3  28.35    5.01
+	 RAG  VHZ  1034      S E 3  28.35    9.20
+	 RMM  VHZ   647      P E 3  35.50    6.92
+	 RMR  VHZ   654      P E 2  37.28    6.49
+	 CDY  VHZ   184      P E 2  40.91    7.41
+	 TPC  VHZ   814      P E 2  46.29    8.36
+	 TPC  VHZ   814      S E 3  46.29   14.47
+	 SIL  VHZ   711      P E 2  49.65    8.72
+	 EW2  VHZ  1011      P E 3  58.86   10.50
+	 RAY  VHZ   633      P E 3  66.45   11.58
+	 BTL  VHZ   170      P E 3  68.32   12.33
+	 GRP  VHZ   355      P E 3  74.89   12.94
+	0299    C 65535      P E 3 11386.02   12.54
+2000/08/01 21:17:45.5 L 1.5 h  34.686 -116.295  11.2 B 9159068  22 127  0  0
+	 RAG  VHZ  1034      P IU0  13.24    2.88
+	 CDY  VHZ   184      P IU0  16.48    3.30
+	 CDY  VHZ   184      S E 2  16.48    6.05
+	 RMM  VHZ   647      P ID1  30.72    5.36
+	 RMM  VHZ   647      S E 3  30.72    9.35
+	 HDB  VHZ  1032      P IU1  31.71    5.64
+	 HDB  VHZ  1032      S E 3  31.71    9.61
+	 TPM  VHZ  1033      P ID0  40.97    7.02
+	 TPM  VHZ  1033      S E 3  40.97   12.51
+	 GTM  VHZ   377      P E 3  43.88    7.13
+	 GTM  VHZ   377      S E 3  43.88   12.92
+	 RMR  VHZ   654      P E 2  58.66    9.77
+	 RMR  VHZ   654      S E 3  58.66   17.21
+	 SIL  VHZ   711      P E 2  61.82   10.37
+	 GRP  VHZ   355      S E 3  64.78   18.73
+	 LUC  VHZ   466      P E 3  66.88   11.12
+	 TPC  VHZ   814      P E 2  68.39   11.51
+	 BTL  VHZ   170      P E 3  81.01   13.62
+	 EW2  VHZ  1011      P E 3  83.57   13.86
+	 RAY  VHZ   633      P E 3  86.49   14.51
+	0299    C 65535      P E 2 11393.35    8.71
+	0299    C 65535      S E 3 11393.35   15.48
+2000/08/01 21:17:56.0 L 1.5 h  34.971 -116.939   6.9 B 3324776  19 127  0  0
+	 FLS  VHZ   323      P E 3   9.23    2.18
+	 FLS  VHZ   323      S E 2   9.23    3.49
+	 BLK  VHZ   143      P IU1  29.00    5.12
+	 HOD  VHZ   395      P E 3  32.01    5.17
+	 HOD  VHZ   395      S E 2  32.01    9.27
+	 GSC  VHZ   365      P ID1  38.78    6.61
+	 GSC  VHZ   365      S E 3  38.78   11.89
+	 RMM  VHZ   647      P E 3  46.53    7.77
+	 RMM  VHZ   647      S E 2  46.53   13.53
+	 LUC  VHZ   466      P E 2  57.45    9.56
+	 SBK  VHZ   681      P IU1  60.56   10.15
+	 SIL  VHZ   711      P E 3  70.03   11.40
+	 SIL  VHZ   711      S E 2  70.03   20.21
+	 XMS  VHZ   930      P E 3  72.84   11.65
+	 EL2  VHZ   942      P E 3  81.41   13.33
+	 TAB  VHZ   787      P E 3  94.73   15.73
+	 HOL  VHZ  1027      P IU1 101.13   16.58
+	 TPM  VHZ  1033      S E 3 104.01   29.28
+	0299    C 65535      P E 2 11459.95    5.00
+2000/08/01 22:08:09.6 L 1.3 h  34.806 -116.276   8.1 A 9159072  12  46  0  0
+	 CDY  VHZ   184      P IU0   6.24    1.75
+	 CDY  VHZ   184      S E 2   6.24    3.18
+	 RAG  VHZ  1034      P E 2  17.87    3.18
+	 RAG  VHZ  1034      S E 2  17.87    5.75
+	 RMM  VHZ   647      P E 2  36.83    6.41
+	 RMM  VHZ   647      S E 2  36.83   10.68
+	 TPM  VHZ  1033      P E 2  52.44    8.83
+	 TPM  VHZ  1033      S E 2  52.44   15.48
+	 GRP  VHZ   355      P E 2  61.67   10.15
+	 RMR  VHZ   654      P E 2  71.53   11.78
+	0299    C 65535      P IU1 11396.23    7.43
+	0299    C 65535      S E 2 11396.23   12.48
+2000/08/01 22:31:55.6 L 1.8 l  33.793 -116.091   3.0 A 9159073  35  86  0  0
+	 FRG  VHZ   330      P IU0   4.78    1.00
+	 MEC  VHZ   472      P ID0  18.43    3.34
+	 MEC  VHZ   472      S E 3  18.43    6.12
+	 CTW  VHZ   237      P IU0  23.93    4.45
+	 EW2  VHZ  1011      P IU1  33.52    6.10
+	 EW2  VHZ  1011      S E 2  33.52   10.36
+	 TPC  VHZ   814      P ID0  34.98    6.02
+	 TPC  VHZ   814      S E 2  34.98   10.65
+	 MIR  VHZ   474      P ID0  41.91    7.28
+	 MIR  VHZ   474      S E 3  41.91   13.10
+	 PSP  VHZ   620      P ID1  42.28    7.24
+	 PSP  VHZ   620      S E 2  42.28   12.48
+	 HAY  VHZ   389      P IU1  42.75    7.45
+	 BAT  VHZ   133      P E 2  43.75    7.86
+	 BAT  VHZ   133      S E 2  43.75   13.53
+	 FRK  VHZ   332      P E 2  60.25   10.36
+	 SHE  VHZ  1035      S E 3  60.56   18.28
+	 BC3  VHZ   137      P ID1  60.78   10.78
+	 TPM  VHZ  1033      P E 2  63.35   10.82
+	 RMR  VHZ   654      P IU0  64.66   11.32
+	 RAY  VHZ   633      P E 2  71.90   12.34
+	 POB  VHZ   605      P IU1  77.69   13.24
+	 HMT  VHZ   392      P IU1  84.68   14.39
+	 HMT  VLN   394      P E 2  84.68   13.92
+	 HMT  VHZ   392      S E 3  84.68   24.60
+	 BAC  VHZ   123      P IU0  89.82   15.08
+	 BAC  VHZ   123      S E 2  89.82   26.00
+	 SKY  VHZ   716      P E 2  93.69   15.78
+	 WIN  VHZ   895      P E 2  94.15   15.94
+	 JUL  VHZ   424      P E 2  95.81   16.23
+	 JUL  VHZ   424      S E 2  95.81   27.56
+	 LTC  VHZ   464      P ID1  99.22   16.98
+	 PEC  VHZ   568      P E 3  99.28   17.01
+	 OLY  VHZ   515      P E 2 102.86   17.48
+	 GRP  VHZ   355      P E 2 121.03   20.21
+2000/08/01 22:40:34.5 L 2.3 l  34.727 -116.377   6.1 C 9159074  26 117  0  0
+	 CDY  VHZ   184      P IU1  12.03    2.55
+	 RAG  VHZ  1034      P IU1  21.37    3.79
+	 RMM  VHZ   647      P IU1  24.61    4.23
+	 RMM  VLN   652      S E 2  24.61    7.66
+	 HDB  VHZ  1032      P IU1  37.20    6.47
+	 HDB  VHZ  1032      S E 2  37.20   11.16
+	 GTM  VHZ   377      P ID1  48.12    7.73
+	 TPM  VHZ  1033      P ID1  48.79    8.11
+	 TPM  VHZ  1033      S E 2  48.79   14.40
+	 SIL  VHZ   711      P IU1  59.16    9.85
+	 RMR  VHZ   654      P ID1  60.05    9.86
+	 FLS  VHZ   323      P IU1  66.76   10.95
+	 GRP  VHZ   355      P IU1  71.50   11.63
+	 TPC  VHZ   814      P E 2  75.40   12.76
+	 BTL  VHZ   170      S E 3  78.01   22.64
+	 HOD  VHZ   395      P IU1  81.21   13.18
+	 SHE  VHZ  1035      P E 3  81.79   13.63
+	 RAY  VHZ   633      P E 2  86.57   14.37
+	 BLK  VHZ   143      P ID1  87.48   14.63
+	 CSP  VHZ   235      P E 2 102.27   16.68
+	 HYS  VHZ   399      P E 2 111.02   17.91
+	 SKY  VHZ   716      P E 2 125.37   20.89
+	 XMS  VHZ   930      P E 2 126.96   20.88
+	 SUN  VHZ   768      P ID1 134.30   22.12
+	 HOL  VHZ  1027      P IU1 138.59   22.48
+	0299    C 65535      P IU1 11402.01    7.36
+2000/08/01 23:19:27.5 L 1.1 c  35.916 -117.690   4.3 A 9159077   8  69  0  0
+	 WRC  VHZ   911      P ID1   5.34    1.28
+	 WVP  VHZ   925      P IU1  12.30    2.39
+	 TOW  VHZ   813      P ID1  13.77    2.91
+	 CLC  VHZ   202      P IU1  14.04    2.60
+	 WRV  VHZ   912      P IU1  21.12    3.77
+	 WNM  VHZ   908      P E 2  21.55    3.91
+	 WMF  VHZ   906      P E 2  27.09    4.75
+	 WSH  VHZ   918      P E 2  39.61    6.99
+2000/08/02 01:01:30.9 L 1.4 c  36.183 -118.047   1.7 B 9159086   9  66  0  0
+	 WMF  VHZ   906      P IU1  19.14    3.50
+	 WMF  VHZ   906      S E 3  19.14    5.85
+	 WRV  VHZ   912      P ID1  24.24    4.32
+	 WLH  VHZ   904      P IU1  24.77    4.09
+	 WVP  VHZ   925      S E 2  33.51   10.40
+	 WNM  VHZ   908      P E 2  40.06    6.68
+	 WNM  VHZ   908      S E 2  40.06   11.76
+	 WHF  VHZ   889      P E 3  61.09   10.20
+	 WHF  VHZ   889      S E 2  61.09   17.63
+2000/08/02 01:26:15.3 L 2.2 l  36.321 -118.053   0.6 A 9159089  34 133  0  0
+	 CWC  HHZ  1269      P IU1  13.45    2.34
+	 CWC  HHN  1270      S E 2  13.45    4.16
+	 WMF  VHZ   906      P IU0  29.06    5.30
+	 WMF  VHZ   906      S E 3  29.06    9.14
+	 WLH  VHZ   904      P ID1  30.44    5.20
+	 WRV  VHZ   912      P IU0  37.91    6.77
+	 WRV  VHZ   912      S E 3  37.91   11.29
+	 WCS  VHZ   885      P ID1  41.96    7.55
+	 JRC  HHZ  7112      P IU1  43.93    7.68
+	 JRC  HHE  7114      S E 2  43.93   13.51
+	 WVP  VHZ   925      P IU1  46.68    8.16
+	 WVP  VHZ   925      S E 2  46.68   14.13
+	 WNM  VHZ   908      P IU1  54.93    9.24
+	 WNM  VHZ   908      S E 2  54.93   16.04
+	 WRC  VHZ   911      P E 2  55.73    9.53
+	 ARG  VHZ  1020      P IU1  59.00   10.20
+	 TOW  VHZ   813      P IU1  62.84   11.30
+	 WWP  VHZ   926      P IU1  65.18   10.96
+	 WWP  VHZ   926      S E 2  65.18   18.90
+	 CLC  VHZ   202      P E 2  70.14   12.28
+	 WHF  VHZ   889      P ID1  74.85   12.50
+	 WHF  VHZ   889      S E 2  74.85   21.44
+	 SRT  VHZ   746      P IU1  75.26   13.32
+	 WAS  VHZ   877      P E 2  79.81   13.28
+	 WBM  VHZ   878      P IU0  80.64   13.86
+	 WBM  VHZ   878      S E 2  80.64   23.11
+	 WBS  VHZ   879      P E 2  87.58   14.86
+	 WBS  VHZ   879      S E 3  87.58   25.34
+	 WSH  VHZ   918      P IU1  95.41   16.03
+	 WHV  VHZ   892      P E 2  99.90   16.57
+	 WHV  VHZ   892      S E 2  99.90   28.46
+	 WJP  VHZ   901      P E 2 108.65   17.96
+	 XMS  VHZ   930      P IU1 109.10   18.84
+	 BMT  VHZ   150      P E 3 140.95   23.13
+2000/08/02 01:27:40.5 L 1.3 h  36.359 -118.039   6.0 C 9159090   8  72  0  0
+	 WMF  VHZ   906      P IU1  31.75    5.49
+	 WMF  VHZ   906      S E 3  31.75    9.43
+	 WLH  VHZ   904      P E 2  34.15    5.49
+	 WLH  VHZ   904      S E 2  34.15    9.53
+	 WRV  VHZ   912      P IU1  41.38    6.98
+	 WNM  VHZ   908      P E 2  58.76    9.53
+	 WNM  VHZ   908      S E 3  58.76   16.21
+	 WWP  VHZ   926      P E 2  69.47   11.28
+2000/08/02 05:12:01.9 L 1.3 h  33.505 -116.691   6.0 C 9159097   9  52  0  0
+	 POB  VHZ   605      P ID1  29.51    5.29
+	 POB  VHZ   605      S E 2  29.51    8.93
+	 BAC  VHZ   123      P IU1  34.36    5.90
+	 PSP  VHZ   620      P E 3  34.65    5.89
+	 OLY  VHZ   515      S E 2  40.21   12.03
+	 WIN  VHZ   895      P E 3  42.88    7.22
+	 WIN  VHZ   895      S E 2  42.88   12.40
+	 SKY  VHZ   716      P E 3  48.76    8.49
+	 JUL  VHZ   424      S E 3  51.30   14.66
+2000/08/02 06:12:23.4 L 1.1 c  34.042 -117.261  18.5 C 9159103  12  64  0  0
+	 PEC  VHZ   568      S E 3  19.04    7.58
+	 SME  VHZ   722      P E 2  25.90    5.13
+	 SME  VHZ   722      S E 3  25.90    9.00
+	 SKY  VHZ   716      P E 2  32.83    6.04
+	 SKY  VHZ   716      S E 2  32.83   10.64
+	 WIN  VHZ   895      P E 3  42.47    7.39
+	 WIN  VHZ   895      S E 2  42.47   12.71
+	 HMT  VHZ   392      P E 3  43.98    7.60
+	 ELS  VHZ   297      P E 3  46.55    8.34
+	 POB  VHZ   605      P E 2  50.23    8.67
+	 BAC  VHZ   123      P E 2  51.93    9.04
+	 BAC  VHZ   123      S E 2  51.93   15.40
+2000/08/02 06:29:29.1 L 1.3 h  34.609 -116.304   4.6 B 9159104   9  59  0  0
+	 RAG  VHZ  1034      P ID1  16.29    2.98
+	 RAG  VHZ  1034      S E 3  16.29    5.85
+	 HDB  VHZ  1032      P IU1  23.19    4.19
+	 CDY  VHZ   184      P ID1  24.77    4.48
+	 RMM  VHZ   647      S E 3  29.79    9.27
+	 TPM  VHZ  1033      P ID1  34.19    5.89
+	 GTM  VHZ   377      S E 3  35.29   10.52
+	 TPC  VHZ   814      P ID1  60.69   10.43
+	 GRP  VHZ   355      P E 3  67.84   11.23
+2000/08/02 06:30:05.8 L 1.4 h  34.433 -116.255   6.3 A 3324770   9  59  0  0
+	 HDB  VHZ  1032      P ID1   4.61    1.40
+	 TPM  VHZ  1033      P ID1  17.76    3.33
+	 TPM  VHZ  1033      S E 3  17.76    5.81
+	 GTM  VHZ   377      P IU1  17.99    3.21
+	 GTM  VHZ   377      S E 2  17.99    5.78
+	 RAG  VHZ  1034      P IU1  29.38    5.10
+	 RAG  VHZ  1034      S E 2  29.38    8.90
+	 RMR  VHZ   654      P IU1  38.43    6.71
+	 GRP  VHZ   355      P E 3  72.64   11.91
+2000/08/02 06:47:56.6 L 1.4 h  34.386 -116.184   4.8 A 9159106   8  61  0  0
+	 HDB  VHZ  1032      P ID1   9.60    1.90
+	 HDB  VHZ  1032      S E 2   9.60    3.39
+	 TPM  VHZ  1033      P ID1   9.75    2.00
+	 GTM  VHZ   377      P E 2  18.83    3.43
+	 GTM  VHZ   377      S E 2  18.83    6.12
+	 GRP  VHZ   355      P ID1  70.69   11.66
+	 GRP  VHZ   355      S E 3  70.69   20.18
+	0299    C 65535      P E 3 11372.46   14.63
+2000/08/02 07:49:10.4 L 1.6 h  32.942 -115.541   4.6 A 9159109  11  44  0  0
+	 BR2  VLZ   936      P ID1   4.18    1.63
+	 SNR  VHZ   735      P IU1  13.16    3.09
+	 SNR  VHE   736      S E 3  13.16    6.42
+	 COK  VHZ   219      P E 2  20.07    4.28
+	 SU2  VHZ  1018      P E 2  23.88    4.28
+	 ERP  VHZ   302      P E 2  24.83    5.22
+	 SGL  VHZ   709      P ID1  36.76    6.39
+	 SGL  VHZ   709      S E 2  36.76   11.07
+	 CRR  VHZ   233      P E 3  39.95    7.14
+	 YUH  VHZ   935      P E 3  48.07    8.12
+	 IKP  VHZ   400      P ID1  61.64   10.82
+2000/08/02 08:14:50.8 L 2.2 c  34.505 -116.516  10.2 B 9159111  22 171  0  0
+	 RMM  VHZ   647      P ID1  18.39    3.51
+	 RMM  VLN   652      S E 2  18.39    6.46
+	 HDB  VHZ  1032      P ID0  24.11    4.24
+	 HDB  VHZ  1032      S E 2  24.11    7.73
+	 GTM  VHZ   377      P E 2  27.66    4.63
+	 GTM  VHZ   377      S E 3  27.66    8.23
+	 RMR  VHZ   654      P ID1  32.96    5.75
+	 SIL  VHZ   711      P IU0  33.60    5.82
+	 RAG  VHZ  1034      P IU1  39.00    6.56
+	 CDY  VHZ   184      P IU1  39.73    6.75
+	 LUC  VHZ   466      P IU0  41.74    7.05
+	 TPM  VHZ  1033      S E 2  43.02   13.26
+	 BTL  VHZ   170      P E 2  52.86    9.03
+	 RAY  VHZ   633      P IU1  58.76   10.05
+	 EW2  VHZ  1011      P E 2  63.57   10.71
+	 SHE  VHZ  1035      P E 2  79.69   13.81
+	 CSP  VHZ   235      P ID1  80.99   13.38
+	 CSP  VHZ   235      S E 3  80.99   23.50
+	 GRP  VHZ   355      P E 2  90.18   14.80
+	 PEC  VHZ   568      P ID1  90.47   14.96
+	0299    C 65535      P IU1 11405.74   10.53
+	0299    C 65535      S E 2 11405.74   18.09
+2000/08/02 08:25:49.0 L 1.2 h  34.809 -116.267   6.8 B 9159112   7  50  0  0
+	 CDY  VHZ   184      P IU0   6.88    1.70
+	 RAG  VHZ  1034      P IU1  17.61    3.19
+	 RAG  VHZ  1034      S E 2  17.61    5.74
+	 TPM  VHZ  1033      S E 3  52.48   15.44
+	 GRP  VHZ   355      P IU1  60.84   10.13
+	0299    C 65535      P IU1 11395.56    7.38
+	0299    C 65535      S E 3 11395.56   12.62
+2000/08/02 09:09:26.3 L 2.0 l  34.799 -116.262   3.9 A 9159115  20 110  0  0
+	 CDY  VHZ   184      P IU0   7.74    1.60
+	 RAG  VHZ  1034      P IU1  16.45    3.02
+	 RAG  VHZ  1034      S E 3  16.45    5.68
+	 RMM  VHZ   647      P ID1  37.60    6.38
+	 RMM  VHZ   647      S E 2  37.60   11.37
+	 HDB  VHZ  1032      P IU1  44.32    7.64
+	 TPM  VHZ  1033      P ID1  51.28    8.74
+	 TPM  VHZ  1033      S E 3  51.28   15.15
+	 GTM  VHZ   377      P E 2  56.75    9.37
+	 GRP  VHZ   355      P ID1  60.38   10.07
+	 GRP  VHZ   355      S E 2  60.38   17.51
+	 SIL  VHZ   711      P ID1  72.33   12.13
+	 GSC  VHZ   365      P E 3  75.08   12.58
+	 GSC  VHZ   365      S E 2  75.08   22.01
+	 LUC  VHZ   466      P ID1  75.25   12.48
+	 TPC  VHZ   814      P IU1  79.55   13.38
+	 BTL  VHZ   170      P ID1  91.25   15.26
+	 FRG  VHZ   330      P E 2 117.29   20.03
+	 HYS  VHZ   399      P E 2 120.78   19.81
+	0299    C 65535      P IU1 11394.75    7.46
+2000/08/02 09:29:20.7 L 1.5 h  34.543 -116.264  10.0 B 9159116  15  54  0  0
+	 HDB  VHZ  1032      P IU0  15.94    3.23
+	 HDB  VHZ  1032      S E 3  15.94    5.67
+	 RAG  VHZ  1034      P IU0  18.70    3.49
+	 RAG  VHZ  1034      S E 2  18.70    6.30
+	 TPM  VHZ  1033      P E 2  26.15    4.78
+	 GTM  VHZ   377      P IU1  28.89    4.92
+	 GTM  VHZ   377      S E 3  28.89    8.80
+	 CDY  VHZ   184      P IU1  32.63    5.66
+	 CDY  VHZ   184      S E 2  32.63   10.17
+	 RMM  VHZ   647      P E 3  35.06    6.06
+	 RMM  VHZ   647      S E 3  35.06   10.57
+	 RMR  VHZ   654      P E 2  46.66    7.94
+	 TPC  VHZ   814      P E 3  52.50    9.24
+	 TPC  VHZ   814      S E 2  52.50   15.38
+	 EW2  VHZ  1011      P ID1  68.32   11.58
+2000/08/02 10:18:10.9 L 2.1 l  36.048 -117.735   0.0 A 9159117  35  89  0  0
+	 WCS  VHZ   885      P ID1   3.81    0.77
+	 WVP  VHZ   925      P ID0  13.32    2.40
+	 WMF  VHZ   906      P IU0  13.50    2.40
+	 WMF  VHZ   906      S E 3  13.50    3.84
+	 WRC  VHZ   911      P ID0  13.63    2.56
+	 WRV  VHZ   912      P IU0  15.02    2.64
+	 ARG  VHZ  1020      P IU0  23.79    4.17
+	 ARG  VHZ  1020      S E 2  23.79    7.57
+	 TOW  VHZ   813      P ID0  26.74    5.24
+	 TOW  VHZ   813      S E 3  26.74    9.24
+	 WNM  VHZ   908      P E 2  27.80    4.85
+	 CLC  VHZ   202      P ID0  28.77    5.02
+	 CLC  VHZ   202      S E 3  28.77    8.98
+	 SRT  VHZ   746      P ID0  39.57    7.44
+	 WWP  VHZ   926      P IU0  47.61    8.08
+	 WWP  VHZ   926      S E 2  47.61   14.09
+	 WBM  VHZ   878      P E 2  50.94    8.99
+	 WLH  VHZ   904      P E 2  54.54    9.07
+	 WSH  VHZ   918      P E 2  54.63    9.40
+	 LRL  VHZ   457      P E 2  63.41   10.97
+	 XMS  VHZ   930      P ID0  67.64   11.89
+	 XMS  VHZ   930      S E 3  67.64   20.52
+	 WBS  VHZ   879      P E 2  68.03   11.72
+	 WHF  VHZ   889      P IU0  69.09   11.57
+	 WHF  VHZ   889      S E 2  69.09   20.04
+	 JFS  VHZ   421      S E 3  77.65   22.71
+	 WAS  VHZ   877      P E 2  83.30   13.92
+	 DTP  VHZ   280      P E 2  87.40   14.78
+	 WHV  VHZ   892      P E 2  93.83   15.63
+	 WHV  VHZ   892      S E 3  93.83   26.97
+	 WJP  VHZ   901      P E 2  98.79   16.45
+	 WJP  VHZ   901      S E 2  98.79   28.51
+	 SBK  VHZ   681      P IU1 108.64   18.51
+	 SND  VHZ   733      P IU1 113.47   18.97
+	 BMT  VHZ   150      P IU1 128.81   21.34
+2000/08/02 11:14:57.6 L 1.2 h  34.493 -116.066   4.3 A 9159120   7  61  0  0
+	 TPM  VHZ  1033      P IU1  14.57    2.71
+	 RAG  VHZ  1034      P ID1  22.53    4.10
+	 HDB  VHZ  1032      P ID1  22.77    4.18
+	 HDB  VHZ  1032      S E 2  22.77    7.46
+	 GTM  VHZ   377      P ID1  34.66    5.92
+	 TPC  VHZ   814      P E 3  43.10    7.64
+	 GRP  VHZ   355      P ID1  54.70    9.32
+2000/08/02 12:17:40.9 L 1.1 c  33.503 -116.548   6.0 C 9159123  17  51  0  0
+	 POB  VHZ   605      P E 2  40.25    6.95
+	 POB  VHZ   605      S E 3  40.25   12.27
+	 MIR  VHZ   474      P E 3  44.05    7.33
+	 MIR  VHZ   474      S E 3  44.05   12.74
+	 HMT  VHZ   392      P ID1  47.86    8.20
+	 HMT  VHZ   392      S E 2  47.86   13.86
+	 EW2  VHZ  1011      P E 3  50.31    8.93
+	 EW2  VHZ  1011      S E 3  50.31   14.48
+	 JUL  VHZ   424      P ID1  50.93    8.50
+	 JUL  VHZ   424      S E 3  50.93   15.12
+	 FRG  VHZ   330      P E 2  52.95    8.95
+	 OLY  VHZ   515      P E 2  53.15    8.99
+	 WIN  VHZ   895      P ID1  55.00    9.25
+	 SKY  VHZ   716      P E 2  59.80   10.08
+	 SKY  VHZ   716      S E 3  59.80   16.99
+	 PEC  VHZ   568      P E 2  71.19   11.79
+	 PEC  VHZ   568      S E 2  71.19   20.25
+2000/08/02 12:40:28.1 L 1.5 h  34.505 -116.258   2.6 A 9159124  14  69  0  0
+	 HDB  VHZ  1032      P ID0  11.87    2.42
+	 RAG  VHZ  1034      P ID1  22.09    3.95
+	 RAG  VHZ  1034      S E 3  22.09    7.00
+	 TPM  VHZ  1033      P ID0  22.67    4.09
+	 TPM  VHZ  1033      S E 2  22.67    7.23
+	 GTM  VHZ   377      P ID1  25.08    4.26
+	 CDY  VHZ   184      P E 2  36.88    6.43
+	 CDY  VHZ   184      S E 2  36.88   11.45
+	 RMM  VHZ   647      P E 3  37.14    6.51
+	 RMR  VHZ   654      P IU1  43.78    7.45
+	 TPC  VHZ   814      P ID1  48.39    8.50
+	 GRP  VHZ   355      P E 2  68.65   11.45
+	 BTL  VHZ   170      P IU1  74.20   12.80
+	0299    C 65535      P E 2 11383.34   12.23
+2000/08/02 12:49:52.4 L 1.6 c  36.346 -118.045   6.0 C 9159125  20  69  0  0
+	 WMF  VHZ   906      P IU0  30.85    5.24
+	 WMF  VHZ   906      S E 2  30.85    9.23
+	 WLH  VHZ   904      P E 2  32.77    5.13
+	 WLH  VHZ   904      S E 2  32.77    9.26
+	 WRV  VHZ   912      P IU1  40.21    6.71
+	 WRV  VHZ   912      S E 3  40.21   11.61
+	 WVP  VHZ   925      P E 2  48.84    8.29
+	 WVP  VHZ   925      S E 3  48.84   14.02
+	 WRC  VHZ   911      P E 3  57.35   10.14
+	 WNM  VHZ   908      P E 2  57.46    9.24
+	 WNM  VHZ   908      S E 3  57.46   16.14
+	 TOW  VHZ   813      P E 2  65.07   11.31
+	 WWP  VHZ   926      P E 2  67.99   10.96
+	 WWP  VHZ   926      S E 2  67.99   18.80
+	 CLC  VHZ   202      P E 3  71.96   12.31
+	 SRT  VHZ   746      P ID1  77.59   13.33
+	 WHF  VHZ   889      P E 2  77.70   12.76
+	 WHF  VHZ   889      S E 2  77.70   21.32
+	 WBM  VHZ   878      P IU1  83.25   13.79
+	 WSH  VHZ   918      P E 2  97.37   16.08
+2000/08/02 15:12:15.4 L 1.8 c  36.353 -118.047   6.0 C 7198533  15  63  0  0
+	 WMF  VHZ   906      P IU1  31.59    5.39
+	 WMF  VHZ   906      S E 2  31.59    9.40
+	 WLH  VHZ   904      P E 2  33.15    5.27
+	 WLH  VHZ   904      S E 3  33.15    9.40
+	 WRV  VHZ   912      P IU1  41.00    6.85
+	 WVP  VHZ   925      P ID1  49.62    8.45
+	 WNM  VHZ   908      P ID1  58.26    9.38
+	 WNM  VHZ   908      S E 3  58.26   16.07
+	 TOW  VHZ   813      P E 2  65.86   11.44
+	 WWP  VHZ   926      P IU1  68.76   11.11
+	 WWP  VHZ   926      S E 3  68.76   18.97
+	 CLC  VHZ   202      P E 3  72.70   12.15
+	 WHF  VHZ   889      P E 3  78.36   12.80
+	 SRT  VHZ   746      P IU1  78.38   13.39
+	 WBM  VHZ   878      P IU1  84.04   13.93
+2000/08/02 16:18:49.5 L 2.5 l  33.824 -116.997  15.2 A 7198536  48 206  0  0
+	 MDA  VHZ   471      P ID1   9.99    3.04
+	 SKY  VHZ   716      P IU0  11.48    3.19
+	 HMT  VHZ   392      P IU0  12.82    3.34
+	 HMT  VLE   393      S E 2  12.82    5.90
+	 POB  VHZ   605      P E 2  16.65    3.79
+	 PEC  VHZ   568      P IU1  16.93    3.77
+	 WIN  VHZ   895      P IU0  18.51    4.02
+	 WIN  VLE   896      S E 2  18.51    7.00
+	 BAC  VHZ   123      P IU0  23.89    4.66
+	 BAC  VLN   124      S E 3  23.89    8.08
+	 RAY  VHZ   633      P IU0  29.17    5.50
+	 SME  VHZ   722      P IU1  33.12    5.95
+	 RVR  VHZ   661      P ID1  39.65    6.75
+	 PSP  VHZ   620      P ID1  41.37    6.90
+	 ELS  VHZ   297      P IU1  44.35    7.78
+	 OLY  VHZ   515      P IU1  45.06    7.82
+	 BTL  VHZ   170      P ID0  48.15    8.36
+	 SBP  VLZ   687      P ID1  50.43    8.73
+	 GAV  VHZ   336      P IU1  51.76    8.54
+	 EW2  VHZ  1011      P IU1  55.80    9.47
+	 PLS  VHE   592      S E 2  56.51   17.02
+	 RMR  VHZ   654      P IU0  58.08    9.81
+	 SIL  VHZ   711      P IU1  60.33   10.07
+	 CSP  VHZ   235      P IU1  62.35   10.56
+	 SS2  VHZ   747      P ID1  63.01   10.57
+	 LUC  VHZ   466      P ID1  70.20   11.68
+	 SUN  VHZ   768      P ID1  77.29   12.69
+	 VST  VHZ   869      P E 3  77.39   12.45
+	 VST  VHZ   869      S E 3  77.39   21.64
+	 GTM  VHZ   377      P IU1  78.93   12.89
+	 FRG  VHZ   330      P ID1  86.49   14.34
+	 TAB  VHZ   787      P E 2  88.56   14.59
+	 MEC  VHZ   472      P E 2  91.64   15.33
+	 HDB  VHZ  1032      P IU1  91.67   15.05
+	 TPC  VHZ   814      P IU1  92.80   15.11
+	 XTL  VHZ   931      P ID1  95.48   15.28
+	 MIR  VHZ   474      P E 2  95.79   15.48
+	 RMM  VHZ   647      P IU1  97.42   16.02
+	 TPM  VHZ  1033      P ID1 103.45   17.01
+	 CTW  VHZ   237      P E 3 104.97   17.19
+	 HOL  VHZ  1027      P ID1 105.29   16.93
+	 MWC  VHZ   493      P IU1 107.45   17.38
+	 CFL  VHZ   185      P ID1 110.29   17.49
+	 HOD  VHZ   395      P ID1 115.19   18.81
+	 SBB  VHZ   669      P IU1 122.72   19.81
+	 HYS  VHZ   399      P ID1 127.26   20.77
+	 CDY  VHZ   184      P IU1 127.34   20.69
+	 BAR  VHZ   127      P IU1 130.68   20.44
+2000/08/02 17:35:37.8 L 1.8 c  34.562 -116.254   5.9 C 9159147  15  72  0  0
+	 RAG  VHZ  1034      P IU1  16.44    3.04
+	 RAG  VHZ  1034      S E 3  16.44    5.10
+	 HDB  VHZ  1032      P ID0  18.16    3.43
+	 HDB  VHZ  1032      S E 3  18.16    5.95
+	 TPM  VHZ  1033      P E 2  27.25    4.94
+	 CDY  VHZ   184      P ID1  30.78    5.30
+	 CDY  VHZ   184      S E 2  30.78    9.41
+	 GTM  VHZ   377      P IU1  31.18    5.26
+	 GTM  VHZ   377      S E 2  31.18    9.19
+	 RMM  VHZ   647      P IU1  35.34    5.91
+	 RMM  VHZ   647      S E 3  35.34   10.87
+	 RMR  VHZ   654      P E 3  48.89    8.46
+	 RMR  VHZ   654      S E 3  48.89   14.65
+	 GRP  VHZ   355      P IU0  65.47   10.86
+	0299    C 65535      P E 2 11385.13   11.01
+2000/08/02 18:33:34.9 L 1.5 l  33.940 -117.189  14.5 A 9159152  14  72  0  0
+	 PEC  VHZ   568      P IU1   5.92    2.55
+	 PEC  VHZ   568      S E 3   5.92    4.54
+	 MDA  VHZ   471      P E 2  17.60    3.96
+	 SKY  VHZ   716      P ID0  19.76    4.09
+	 SKY  VHZ   716      S E 3  19.76    7.21
+	 SME  VHZ   722      P ID1  20.18    4.09
+	 SME  VHZ   722      S E 2  20.18    7.10
+	 WIN  VHZ   895      P ID0  29.64    5.48
+	 HMT  VHZ   392      P ID1  30.85    5.60
+	 RAY  VHZ   633      P E 2  36.31    6.61
+	 POB  VHZ   605      P E 2  37.26    6.62
+	 BAC  VHZ   123      P E 2  38.93    6.80
+	 ELS  VHZ   297      P ID1  39.34    7.06
+	 EW2  VHZ  1011      P E 2  71.98   11.83
+2000/08/02 18:42:54.5 L 1.3 h  33.483 -116.726   6.0 D 9159153   9  60  0  0
+	 POB  VHZ   605      P IU0  29.12    5.12
+	 POB  VHZ   605      S E 3  29.12    8.83
+	 BAC  VHZ   123      P E 2  32.37    5.63
+	 BAC  VHZ   123      S E 3  32.37    9.85
+	 HMT  VHZ   392      P E 3  35.87    6.19
+	 HMT  VHZ   392      S E 3  35.87   10.52
+	 WIN  VHZ   895      P E 3  41.31    6.95
+	 WIN  VHZ   895      S E 3  41.31   12.15
+	 SKY  VHZ   716      P E 3  47.90    8.22
+2000/08/02 19:16:23.4 L 1.1 c  33.951 -117.187  14.2 B 9159155  11  61  0  0
+	 PEC  VHZ   568      P IU1   6.98    2.65
+	 PEC  VHZ   568      S E 2   6.98    4.53
+	 SKY  VHZ   716      P ID1  20.83    4.18
+	 WIN  VHZ   895      P ID1  30.78    5.59
+	 WIN  VHZ   895      S E 2  30.78    9.76
+	 HMT  VHZ   392      P E 2  31.78    5.69
+	 HMT  VHZ   392      S E 2  31.78    9.96
+	 POB  VHZ   605      P IU1  38.07    6.78
+	 BAC  VHZ   123      P IU1  40.02    6.99
+	 BAC  VHZ   123      S E 2  40.02   11.94
+	 ELS  VHZ   297      P E 2  40.46    7.15
+2000/08/02 21:23:11.5 L 1.4 c  34.697 -116.357  11.3 C 9159166   9  55  0  0
+	 CDY  VHZ   184      P ID1  14.91    3.10
+	 CDY  VHZ   184      S E 2  14.91    5.56
+	 RAG  VHZ  1034      P E 2  19.02    3.67
+	 RAG  VHZ  1034      S E 3  19.02    6.39
+	 RMM  VHZ   647      P ID1  25.35    4.59
+	 RMM  VHZ   647      S E 3  25.35    8.11
+	 SIL  VHZ   711      P E 2  58.20    9.95
+	 GRP  VHZ   355      P E 3  70.17   11.83
+	0299    C 65535      P E 3 11399.14    8.12
+2000/08/02 22:31:20.1 L 1.9 l  33.426 -116.446  14.1 A 9159177  41 390  0  0
+	LVA2  HHZ  9023      P IU0  13.48    3.33
+	LVA2  HHN  9022      S E 2  13.48    5.98
+	 FRD  HHZ  9014      P IU0  16.30    3.65
+	 PFO  HHZ  9044      P ID0  20.69    4.09
+	 PFO  HHE  9042      S E 3  20.69    7.11
+	SNDA  HHZ  9032      P IU0  20.80    4.39
+	 BZN  HHZ  9005      P IU1  21.64    4.43
+	 AGA  HHZ  7843      P ID0  23.98    4.48
+	 WMC  HHZ  9041      P IU0  26.72    5.17
+	 CRY  HHZ  9008      P IU1  31.01    5.71
+	 MIR  VHZ   474      P IU1  33.60    5.83
+	 MIR  VHZ   474      S E 3  33.60   10.06
+	 PLM  HHZ  7247      P IU1  39.25    7.01
+	 JCS  HHZ  8027      P ID1  40.26    7.01
+	 KNW  HHZ  9020      P IU0  40.34    6.93
+	 PSP  VHZ   620      P E 2  41.99    7.26
+	 PSP  VHZ   620      S E 2  41.99   12.14
+	RDMA  HHZ  9026      P IU1  43.43    7.59
+	 JUL  VHZ   424      P ID0  44.76    7.73
+	 JUL  VHZ   424      S E 3  44.76   13.21
+	 MEC  VHZ   472      P E 2  44.92    8.30
+	 SAL  HHZ  7559      P E 2  45.40    8.15
+	 FRG  VHZ   330      P ID0  51.07    8.93
+	 FRG  VHZ   330      S E 2  51.07   15.40
+	 POB  VHZ   605      P E 2  52.76    9.03
+	 POB  VHZ   605      S E 3  52.76   15.51
+	 EW2  VHZ  1011      P E 2  57.30    9.92
+	 DGR  HHZ  1128      P IU0  57.61    9.64
+	 BAC  VHZ   123      P IU1  58.59    9.79
+	 CTW  VHZ   237      P E 2  59.83   10.42
+	 HMT  VHZ   392      P IU1  60.29   10.17
+	 OLY  VHZ   515      P IU1  61.96   10.32
+	 WIN  VHZ   895      P IU1  67.02   11.13
+	 SKY  VHZ   716      P IU1  72.30   12.27
+	 FRK  VHZ   332      P E 2  74.50   12.22
+	 RAY  VHZ   633      P E 2  75.95   13.08
+	 PEC  VHZ   568      P E 2  83.87   13.85
+	 TPC  VHZ   814      P E 2  83.95   13.81
+	 RMR  VHZ   654      P E 2  88.31   14.92
+	 BC3  VHZ   137      P E 2  95.00   15.73
+	 TPM  VHZ  1033      P E 2 109.42   18.04
+2000/08/02 22:58:15.9 L 1.2 h  34.843 -116.414   5.3 A 9159179   7  70  0  0
+	 CDY  VHZ   184      P IU0   7.23    1.60
+	 CDY  VHZ   184      S E 3   7.23    3.03
+	 RMM  VHZ   647      P ID1  29.44    5.12
+	 RMM  VHZ   647      S E 3  29.44    9.05
+	 GRP  VHZ   355      P IU0  74.51   12.24
+	0299    C 65535      P IU1 11409.59    5.50
+	0299    C 65535      S E 3 11409.59    9.19
+2000/08/02 23:01:51.6 L 3.0 l  34.807 -116.269   6.1 A 9159194  30 351  0  0
+	 CDY  VHZ   184      P IU0   6.79    1.66
+	 RAG  VHZ  1034      P IU1  17.55    3.13
+	 RMM  VHZ   647      P ID0  37.45    6.27
+	 RMM  VLN   652      S E 3  37.45   11.02
+	 HDB  VHZ  1032      P ID1  45.18    7.67
+	 HDB  VHZ  1032      S E 2  45.18   13.38
+	 TPM  VHZ  1033      P ID0  52.33    8.78
+	 TPM  VHZ  1033      S E 2  52.33   15.42
+	 GTM  VHZ   377      P ID0  57.54    9.34
+	 GRP  VHZ   355      P IU1  61.02   10.15
+	 RMR  VHZ   654      P ID0  71.89   11.80
+	 SIL  VHZ   711      P ID0  72.49   12.03
+	 GSC  VHZ   365      P IU1  73.99   12.45
+	 LUC  VHZ   466      P ID1  75.15   12.36
+	 TPC  VHZ   814      P IU1  80.57   13.43
+	 SHE  VHZ  1035      P IU1  81.34   13.33
+	 HOD  VHZ   395      P E 2  90.28   14.61
+	 BTL  VHZ   170      P ID1  91.36   15.15
+	 BLK  VHZ   143      P IU1  93.07   15.20
+	 EW2  VHZ  1011      P E 2  97.22   15.95
+	 RAY  VHZ   633      P ID0  99.18   16.43
+	 CSP  VHZ   235      P IU1 115.27   18.84
+	 MDA  VHZ   471      P E 2 120.06   19.82
+	 HYS  VHZ   399      P E 2 120.09   19.45
+	 SBK  VHZ   681      P E 2 124.84   20.28
+	 PEC  VHZ   568      P E 2 130.84   21.34
+	 POB  VHZ   605      P IU1 138.41   22.72
+	 HMT  VHZ   392      P E 2 139.65   22.68
+	 SME  VHZ   722      P E 2 148.39   23.83
+	0299    C 65535      P IU0 11395.66    7.32
